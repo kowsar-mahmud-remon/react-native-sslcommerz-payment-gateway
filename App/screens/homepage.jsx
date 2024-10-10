@@ -11,7 +11,7 @@ import {
 import { WebView } from "react-native-webview";
 import { useNavigation } from "@react-navigation/native";
 
-const PaymentPage = () => {
+const HomePage = () => {
   const [paymentDetails, setPaymentDetails] = useState({
     amount: "",
     customer_name: "",
@@ -66,10 +66,10 @@ const PaymentPage = () => {
           console.log("Navigating to:", event.url); // Log URL changes
           console.log("event.url", event.url);
 
-          if (event.url.includes("paymentapp")) {
-            // Alert.alert("paymentapp");
-            // setPaymentUrl(null);
-            navigation.navigate("Success");
+          if (event.url.includes("paymentapp://Success")) {
+            setPaymentUrl(null); // Clear the WebView URL state
+            setPaymentDetails(""); // reset input data
+            navigation.navigate("Success"); // Navigate to the Success screen
           } else if (event.url.includes("failure")) {
             Alert.alert("Payment Failed", "Your payment failed.");
             setPaymentUrl(null);
@@ -158,4 +158,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default PaymentPage;
+export default HomePage;
