@@ -1,0 +1,1027 @@
+[
+  {
+    "id": 1,
+    "Question": "Canada has two official languages, English and French.",
+    "Answer": "true"
+  },
+  {
+    "id": 2,
+    "Question": "The legal drinking age in Canada is 18 years old.",
+    "Answer": "false"
+  },
+  {
+    "id": 3,
+    "Question": "Canada has a unicameral legislative system.",
+    "Answer": "false"
+  },
+  {
+    "id": 4,
+    "Question": "The national animal of Canada is the beaver.",
+    "Answer": "true"
+  },
+  {
+    "id": 5,
+    "Question": "The capital city of Canada is Toronto.",
+    "Answer": "false"
+  },
+  {
+    "id": 6,
+    "Question": "Canada is the second-largest country in the world by land area.",
+    "Answer": "true"
+  },
+  {
+    "id": 7,
+    "Question": "Canada is a member of the European Union.",
+    "Answer": "false"
+  },
+  {
+    "id": 8,
+    "Question": "The national winter sport of Canada is ice hockey.",
+    "Answer": "true"
+  },
+  {
+    "id": 9,
+    "Question": "Canada has ten provinces and two territories.",
+    "Answer": "false"
+  },
+  {
+    "id": 10,
+    "Question": "The Canadian flag features a maple leaf.",
+    "Answer": "true"
+  },
+  {
+    "id": 11,
+    "Question": "The Prime Minister of Canada is the head of state.",
+    "Answer": "false"
+  },
+  {
+    "id": 12,
+    "Question": "Canada is a constitutional monarchy.",
+    "Answer": "true"
+  },
+  {
+    "id": 13,
+    "Question": "The national summer sport of Canada is lacrosse.",
+    "Answer": "true"
+  },
+  {
+    "id": 14,
+    "Question": "Canada shares its longest border with Mexico.",
+    "Answer": "false"
+  },
+  {
+    "id": 15,
+    "Question": "The Canadian Thanksgiving is celebrated in October.",
+    "Answer": "true"
+  },
+  {
+    "id": 16,
+    "Question": "Canada is divided into four time zones.",
+    "Answer": "false"
+  },
+  {
+    "id": 17,
+    "Question": "The Canadian Rockies are located in the eastern part of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 18,
+    "Question": "Canada has the longest coastline of any country in the world.",
+    "Answer": "true"
+  },
+  {
+    "id": 19,
+    "Question": "The highest mountain in Canada is Mount Logan.",
+    "Answer": "true"
+  },
+  {
+    "id": 20,
+    "Question": "The Royal Canadian Mounted Police (RCMP) is Canada's national police force.",
+    "Answer": "true"
+  },
+  {
+    "id": 21,
+    "Question": "Canada's national anthem is \"God Save the Queen.\"",
+    "Answer": "false"
+  },
+  {
+    "id": 22,
+    "Question": "The currency of Canada is the Canadian dollar.",
+    "Answer": "true"
+  },
+  {
+    "id": 23,
+    "Question": "Canada is a founding member of NATO.",
+    "Answer": "true"
+  },
+  {
+    "id": 24,
+    "Question": "The Canadian Parliament consists of two houses: the Senate and the House of Commons.",
+    "Answer": "true"
+  },
+  {
+    "id": 25,
+    "Question": "The official motto of Canada is \"From Sea to Sea.\"",
+    "Answer": "false"
+  },
+  {
+    "id": 26,
+    "Question": "Canada was colonized by France before being colonized by Britain.",
+    "Answer": "true"
+  },
+  {
+    "id": 27,
+    "Question": "The province of Quebec is predominantly English-speaking.",
+    "Answer": "false"
+  },
+  {
+    "id": 28,
+    "Question": "The Great Lakes are located entirely within Canada's borders.",
+    "Answer": "false"
+  },
+  {
+    "id": 29,
+    "Question": "Canada has a total of six time zones.",
+    "Answer": "false"
+  },
+  {
+    "id": 30,
+    "Question": "The highest waterfall in Canada is Niagara Falls.",
+    "Answer": "false"
+  },
+  {
+    "id": 31,
+    "Question": "Canada has a national flower, the rose.",
+    "Answer": "false"
+  },
+  {
+    "id": 32,
+    "Question": "The national symbol of Canada is the maple leaf.",
+    "Answer": "true"
+  },
+  {
+    "id": 33,
+    "Question": "Canada became a country on July 1, 1867.",
+    "Answer": "true"
+  },
+  {
+    "id": 34,
+    "Question": "The Canadian Charter of Rights and Freedoms is part of the Canadian Constitution.",
+    "Answer": "true"
+  },
+  {
+    "id": 35,
+    "Question": "The largest city in Canada by population is Vancouver.",
+    "Answer": "false"
+  },
+  {
+    "id": 36,
+    "Question": "The official bird of Canada is the common loon.",
+    "Answer": "true"
+  },
+  {
+    "id": 37,
+    "Question": "Canada's national tree is the maple tree.",
+    "Answer": "true"
+  },
+  {
+    "id": 38,
+    "Question": "The tallest building in Canada is the CN Tower.",
+    "Answer": "true"
+  },
+  {
+    "id": 39,
+    "Question": "Canada is the world's largest producer of maple syrup.",
+    "Answer": "true"
+  },
+  {
+    "id": 40,
+    "Question": "The province of Saskatchewan is located on the east coast of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 41,
+    "Question": "The northern lights, or aurora borealis, can be seen in parts of Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 42,
+    "Question": "Canada has a president who serves as both head of state and head of government.",
+    "Answer": "false"
+  },
+  {
+    "id": 43,
+    "Question": "The province of Alberta is known for its oil sands.",
+    "Answer": "true"
+  },
+  {
+    "id": 44,
+    "Question": "Canada has a total of seven provinces.",
+    "Answer": "false"
+  },
+  {
+    "id": 45,
+    "Question": "The largest island in Canada is Newfoundland.",
+    "Answer": "false"
+  },
+  {
+    "id": 46,
+    "Question": "The Saint Lawrence River is the longest river in Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 47,
+    "Question": "Canada has never hosted the Olympic Games.",
+    "Answer": "false"
+  },
+  {
+    "id": 48,
+    "Question": "The province of Ontario is home to Canada's capital city.",
+    "Answer": "true"
+  },
+  {
+    "id": 49,
+    "Question": "The Canadian Shield is a mountain range in western Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 50,
+    "Question": "The longest bridge in Canada is the Confederation Bridge.",
+    "Answer": "true"
+  },
+  {
+    "id": 51,
+    "Question": "Canada's national animal is the moose.",
+    "Answer": "false"
+  },
+  {
+    "id": 52,
+    "Question": "The province of Manitoba is known as the \"Prairie Province.\"",
+    "Answer": "true"
+  },
+  {
+    "id": 53,
+    "Question": "The province of British Columbia is the westernmost province in Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 54,
+    "Question": "The Trans-Canada Highway is the longest national highway in the world.",
+    "Answer": "true"
+  },
+  {
+    "id": 55,
+    "Question": "Canada's national sport is ice hockey.",
+    "Answer": "true"
+  },
+  {
+    "id": 56,
+    "Question": "The province of Nova Scotia is located on Canada's west coast.",
+    "Answer": "false"
+  },
+  {
+    "id": 57,
+    "Question": "Canada's lowest point is in the Hudson Bay.",
+    "Answer": "false"
+  },
+  {
+    "id": 58,
+    "Question": "The largest province in Canada by land area is Quebec.",
+    "Answer": "true"
+  },
+  {
+    "id": 59,
+    "Question": "Canada has a total of three territories.",
+    "Answer": "false"
+  },
+  {
+    "id": 60,
+    "Question": "The longest river in Canada is the Mackenzie River.",
+    "Answer": "true"
+  },
+  {
+    "id": 61,
+    "Question": "Canada's national dish is poutine.",
+    "Answer": "false"
+  },
+  {
+    "id": 62,
+    "Question": "The province of Prince Edward Island is connected to the mainland by a bridge.",
+    "Answer": "true"
+  },
+  {
+    "id": 63,
+    "Question": "The official flower of Canada is the trillium.",
+    "Answer": "true"
+  },
+  {
+    "id": 64,
+    "Question": "Canada has a total of ten provinces.",
+    "Answer": "false"
+  },
+  {
+    "id": 65,
+    "Question": "The national animal of Canada is the polar bear.",
+    "Answer": "false"
+  },
+  {
+    "id": 66,
+    "Question": "Canada is located in the southern hemisphere.",
+    "Answer": "false"
+  },
+  {
+    "id": 67,
+    "Question": "The province of Ontario is the most populous province in Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 68,
+    "Question": "The highest tides in the world occur in the Bay of Fundy, located in Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 69,
+    "Question": "Canada is the largest country in North America.",
+    "Answer": "true"
+  },
+  {
+    "id": 70,
+    "Question": "The city of Ottawa is located in the province of Ontario.",
+    "Answer": "true"
+  },
+  {
+    "id": 71,
+    "Question": "Canada's national holiday is celebrated on July 4th.",
+    "Answer": "false"
+  },
+  {
+    "id": 72,
+    "Question": "The province of Newfoundland and Labrador is the easternmost province in Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 73,
+    "Question": "The city of Vancouver is located in the province of British Columbia.",
+    "Answer": "true"
+  },
+  {
+    "id": 74,
+    "Question": "Canada has a total of six territories.",
+    "Answer": "false"
+  },
+  {
+    "id": 75,
+    "Question": "The official bird of Canada is the bald eagle.",
+    "Answer": "false"
+  },
+  {
+    "id": 76,
+    "Question": "Canada has never won a gold medal in the Winter Olympics.",
+    "Answer": "false"
+  },
+  {
+    "id": 77,
+    "Question": "The province of Alberta is known for its prairies and ranches.",
+    "Answer": "true"
+  },
+  {
+    "id": 78,
+    "Question": "The Canadian Rockies are known for their stunning fjords.",
+    "Answer": "false"
+  },
+  {
+    "id": 79,
+    "Question": "Canada is known for having a large number of freshwater lakes.",
+    "Answer": "true"
+  },
+  {
+    "id": 80,
+    "Question": "The city of Toronto is the capital of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 81,
+    "Question": "Canada's national animal is the deer.",
+    "Answer": "false"
+  },
+  {
+    "id": 82,
+    "Question": "The province of Quebec is predominantly French-speaking.",
+    "Answer": "true"
+  },
+  {
+    "id": 83,
+    "Question": "The currency of Canada is the American dollar.",
+    "Answer": "false"
+  },
+  {
+    "id": 84,
+    "Question": "Canada is a member of the United Nations.",
+    "Answer": "true"
+  },
+  {
+    "id": 85,
+    "Question": "The province of Ontario is bordered by four of the Great Lakes.",
+    "Answer": "true"
+  },
+  {
+    "id": 86,
+    "Question": "Canada's national anthem is \"O Canada.\"",
+    "Answer": "true"
+  },
+  {
+    "id": 87,
+    "Question": "The tallest waterfall in Canada is Niagara Falls.",
+    "Answer": "true"
+  },
+  {
+    "id": 88,
+    "Question": "Canada's national flower is the maple leaf.",
+    "Answer": "false"
+  },
+  {
+    "id": 89,
+    "Question": "Canada has a total of three oceans bordering its coastline.",
+    "Answer": "true"
+  },
+  {
+    "id": 90,
+    "Question": "The province of Alberta is known for its deserts.",
+    "Answer": "false"
+  },
+  {
+    "id": 91,
+    "Question": "The city of Montreal is located in the province of Ontario.",
+    "Answer": "false"
+  },
+  {
+    "id": 92,
+    "Question": "Canada's national holiday is celebrated on July 1st.",
+    "Answer": "true"
+  },
+  {
+    "id": 93,
+    "Question": "The province of Manitoba is located in western Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 94,
+    "Question": "The province of British Columbia is located on the east coast of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 95,
+    "Question": "The city of Quebec is located in the province of Quebec.",
+    "Answer": "true"
+  },
+  {
+    "id": 96,
+    "Question": "Canada has never participated in a space mission.",
+    "Answer": "false"
+  },
+  {
+    "id": 97,
+    "Question": "The province of Saskatchewan is known as the \"Garden Province.\"",
+    "Answer": "false"
+  },
+  {
+    "id": 98,
+    "Question": "Canada's national sport is soccer.",
+    "Answer": "false"
+  },
+  {
+    "id": 99,
+    "Question": "The official motto of Canada is \"Peace, Order, and Good Government.\"",
+    "Answer": "true"
+  },
+  {
+    "id": 100,
+    "Question": "Canada is known for its multiculturalism and diversity.",
+    "Answer": "true"
+  },
+  {
+    "id": 101,
+    "Question": "The national animal of Canada is the polar bear.",
+    "Answer": "false"
+  },
+  {
+    "id": 102,
+    "Question": "The capital city of Canada is Ottawa.",
+    "Answer": "true"
+  },
+  {
+    "id": 103,
+    "Question": "Canada is the third-largest country in the world by land area.",
+    "Answer": "false"
+  },
+  {
+    "id": 104,
+    "Question": "The legal drinking age in Canada is 21 years old.",
+    "Answer": "false"
+  },
+  {
+    "id": 105,
+    "Question": "Canada has a bicameral legislative system.",
+    "Answer": "true"
+  },
+  {
+    "id": 106,
+    "Question": "The national animal of Canada is the moose.",
+    "Answer": "false"
+  },
+  {
+    "id": 107,
+    "Question": "The capital city of Canada is Vancouver.",
+    "Answer": "false"
+  },
+  {
+    "id": 108,
+    "Question": "Canada is the largest country in the world by land area.",
+    "Answer": "false"
+  },
+  {
+    "id": 109,
+    "Question": "Canada is a member of the North Atlantic Treaty Organization (NATO).",
+    "Answer": "true"
+  },
+  {
+    "id": 110,
+    "Question": "The national winter sport of Canada is skiing.",
+    "Answer": "false"
+  },
+  {
+    "id": 111,
+    "Question": "Canada has thirteen provinces and territories.",
+    "Answer": "true"
+  },
+  {
+    "id": 112,
+    "Question": "The Canadian flag features a maple leaf and two vertical red bands.",
+    "Answer": "true"
+  },
+  {
+    "id": 113,
+    "Question": "The Prime Minister of Canada is the head of government.",
+    "Answer": "true"
+  },
+  {
+    "id": 114,
+    "Question": "Canada is a republic.",
+    "Answer": "false"
+  },
+  {
+    "id": 115,
+    "Question": "The national summer sport of Canada is baseball.",
+    "Answer": "false"
+  },
+  {
+    "id": 116,
+    "Question": "Canada shares its longest border with the United States.",
+    "Answer": "true"
+  },
+  {
+    "id": 117,
+    "Question": "The Canadian Thanksgiving is celebrated in November.",
+    "Answer": "false"
+  },
+  {
+    "id": 118,
+    "Question": "Canada is divided into six time zones.",
+    "Answer": "false"
+  },
+  {
+    "id": 119,
+    "Question": "The Canadian Rockies are located in the western part of Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 120,
+    "Question": "Canada has the second-longest coastline of any country in the world.",
+    "Answer": "false"
+  },
+  {
+    "id": 121,
+    "Question": "The highest mountain in Canada is Mount Everest.",
+    "Answer": "false"
+  },
+  {
+    "id": 122,
+    "Question": "The Royal Canadian Mounted Police (RCMP) is responsible for enforcing federal laws.",
+    "Answer": "true"
+  },
+  {
+    "id": 123,
+    "Question": "Canada's national anthem is \"Oh Canada.\"",
+    "Answer": "false"
+  },
+  {
+    "id": 124,
+    "Question": "The currency of Canada is the euro.",
+    "Answer": "false"
+  },
+  {
+    "id": 125,
+    "Question": "Canada is a member of the Organization of American States (OAS).",
+    "Answer": "true"
+  },
+  {
+    "id": 126,
+    "Question": "The Canadian Parliament consists of three houses: the Senate, the House of Commons, and the Supreme Court.",
+    "Answer": "false"
+  },
+  {
+    "id": 127,
+    "Question": "The official motto of Canada is \"Peace, Order, and Good Government.\"",
+    "Answer": "true"
+  },
+  {
+    "id": 128,
+    "Question": "Canada was colonized by Britain before being colonized by France.",
+    "Answer": "false"
+  },
+  {
+    "id": 129,
+    "Question": "The province of Quebec is predominantly French-speaking.",
+    "Answer": "true"
+  },
+  {
+    "id": 130,
+    "Question": "The Great Lakes are located entirely within the United States' borders.",
+    "Answer": "false"
+  },
+  {
+    "id": 131,
+    "Question": "Canada has a total of seven time zones.",
+    "Answer": "false"
+  },
+  {
+    "id": 132,
+    "Question": "The highest waterfall in Canada is Victoria Falls.",
+    "Answer": "false"
+  },
+  {
+    "id": 133,
+    "Question": "Canada has a national flower, the maple leaf.",
+    "Answer": "false"
+  },
+  {
+    "id": 134,
+    "Question": "The national symbol of Canada is the bald eagle.",
+    "Answer": "false"
+  },
+  {
+    "id": 135,
+    "Question": "Canada became a country on July 1, 1967.",
+    "Answer": "false"
+  },
+  {
+    "id": 136,
+    "Question": "The Canadian Charter of Rights and Freedoms is part of the United States' Constitution.",
+    "Answer": "false"
+  },
+  {
+    "id": 137,
+    "Question": "The largest city in Canada by population is Montreal.",
+    "Answer": "false"
+  },
+  {
+    "id": 138,
+    "Question": "The official bird of Canada is the goose.",
+    "Answer": "false"
+  },
+  {
+    "id": 139,
+    "Question": "Canada's national tree is the pine tree.",
+    "Answer": "false"
+  },
+  {
+    "id": 140,
+    "Question": "The tallest building in Canada is the Empire State Building.",
+    "Answer": "false"
+  },
+  {
+    "id": 141,
+    "Question": "Canada is the world's largest producer of maple syrup.",
+    "Answer": "true"
+  },
+  {
+    "id": 142,
+    "Question": "The province of Saskatchewan is located in eastern Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 143,
+    "Question": "The northern lights, or aurora borealis, can only be seen in the southern part of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 144,
+    "Question": "Canada has a prime minister who serves as both head of state and head of government.",
+    "Answer": "true"
+  },
+  {
+    "id": 145,
+    "Question": "The province of Alberta is known for its forests and mountains.",
+    "Answer": "true"
+  },
+  {
+    "id": 146,
+    "Question": "Canada has a total of six provinces.",
+    "Answer": "false"
+  },
+  {
+    "id": 147,
+    "Question": "The largest island in Canada is Baffin Island.",
+    "Answer": "true"
+  },
+  {
+    "id": 148,
+    "Question": "The Saint Lawrence River is the longest river in North America.",
+    "Answer": "false"
+  },
+  {
+    "id": 149,
+    "Question": "Canada has hosted the Olympic Games twice.",
+    "Answer": "true"
+  },
+  {
+    "id": 150,
+    "Question": "The province of Ontario is home to Canada's largest city, Toronto.",
+    "Answer": "true"
+  },
+  {
+    "id": 151,
+    "Question": "The Canadian Shield is a mountain range in eastern Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 152,
+    "Question": "The longest bridge in Canada is the Golden Gate Bridge.",
+    "Answer": "false"
+  },
+  {
+    "id": 153,
+    "Question": "Canada's national animal is the eagle.",
+    "Answer": "false"
+  },
+  {
+    "id": 154,
+    "Question": "The province of Manitoba is known as the \"Prairie Province.\"",
+    "Answer": "true"
+  },
+  {
+    "id": 155,
+    "Question": "The province of British Columbia is the easternmost province in Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 156,
+    "Question": "The Trans-Canada Highway is the longest national highway in North America.",
+    "Answer": "true"
+  },
+  {
+    "id": 157,
+    "Question": "Canada's national sport is soccer.",
+    "Answer": "false"
+  },
+  {
+    "id": 158,
+    "Question": "The province of Nova Scotia is located on Canada's east coast.",
+    "Answer": "true"
+  },
+  {
+    "id": 159,
+    "Question": "Canada's lowest point is in the Atlantic Ocean.",
+    "Answer": "false"
+  },
+  {
+    "id": 160,
+    "Question": "The largest province in Canada by land area is British Columbia.",
+    "Answer": "false"
+  },
+  {
+    "id": 161,
+    "Question": "Canada has a total of thirteen territories.",
+    "Answer": "false"
+  },
+  {
+    "id": 162,
+    "Question": "The longest river in Canada is the Yukon River.",
+    "Answer": "false"
+  },
+  {
+    "id": 163,
+    "Question": "Canada's national dish is maple syrup.",
+    "Answer": "false"
+  },
+  {
+    "id": 164,
+    "Question": "The province of Prince Edward Island is connected to the mainland by a tunnel.",
+    "Answer": "false"
+  },
+  {
+    "id": 165,
+    "Question": "The official flower of Canada is the rose.",
+    "Answer": "false"
+  },
+  {
+    "id": 166,
+    "Question": "Canada has a total of thirteen provinces.",
+    "Answer": "false"
+  },
+  {
+    "id": 167,
+    "Question": "The national animal of Canada is the elk.",
+    "Answer": "false"
+  },
+  {
+    "id": 168,
+    "Question": "Canada is located in the northern hemisphere.",
+    "Answer": "true"
+  },
+  {
+    "id": 169,
+    "Question": "The province of Ontario is the most populous province in Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 170,
+    "Question": "The highest tides in the world occur in the Pacific Ocean, near Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 171,
+    "Question": "Canada is the smallest country in North America.",
+    "Answer": "false"
+  },
+  {
+    "id": 172,
+    "Question": "The city of Ottawa is located in the province of Quebec.",
+    "Answer": "false"
+  },
+  {
+    "id": 173,
+    "Question": "Canada's national holiday is celebrated on July 1st.",
+    "Answer": "true"
+  },
+  {
+    "id": 174,
+    "Question": "The province of Newfoundland and Labrador is located in western Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 175,
+    "Question": "The city of Vancouver is located in the province of Alberta.",
+    "Answer": "false"
+  },
+  {
+    "id": 176,
+    "Question": "Canada has a total of four territories.",
+    "Answer": "true"
+  },
+  {
+    "id": 177,
+    "Question": "The official bird of Canada is the loon.",
+    "Answer": "true"
+  },
+  {
+    "id": 178,
+    "Question": "Canada has never won a gold medal in the Summer Olympics.",
+    "Answer": "false"
+  },
+  {
+    "id": 179,
+    "Question": "The province of Alberta is known for its forests.",
+    "Answer": "true"
+  },
+  {
+    "id": 180,
+    "Question": "The Canadian Rockies are known for their stunning beaches.",
+    "Answer": "false"
+  },
+  {
+    "id": 181,
+    "Question": "Canada is known for having a large number of saltwater lakes.",
+    "Answer": "false"
+  },
+  {
+    "id": 182,
+    "Question": "The city of Toronto is the capital of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 183,
+    "Question": "Canada's national animal is the polar bear.",
+    "Answer": "false"
+  },
+  {
+    "id": 184,
+    "Question": "The province of Quebec is predominantly English-speaking.",
+    "Answer": "false"
+  },
+  {
+    "id": 185,
+    "Question": "The currency of Canada is the Canadian dollar.",
+    "Answer": "true"
+  },
+  {
+    "id": 186,
+    "Question": "Canada is a member of the United Nations.",
+    "Answer": "true"
+  },
+  {
+    "id": 187,
+    "Question": "The province of Ontario is bordered by three of the Great Lakes.",
+    "Answer": "false"
+  },
+  {
+    "id": 188,
+    "Question": "Canada's national anthem is \"Oh Canada.\"",
+    "Answer": "false"
+  },
+  {
+    "id": 189,
+    "Question": "The tallest waterfall in Canada is Niagara Falls.",
+    "Answer": "true"
+  },
+  {
+    "id": 190,
+    "Question": "Canada's national flower is the maple leaf.",
+    "Answer": "false"
+  },
+  {
+    "id": 191,
+    "Question": "Canada has a total of three oceans bordering its coastline.",
+    "Answer": "true"
+  },
+  {
+    "id": 192,
+    "Question": "The province of Alberta is known for its deserts.",
+    "Answer": "false"
+  },
+  {
+    "id": 193,
+    "Question": "The city of Montreal is located in the province of Quebec.",
+    "Answer": "true"
+  },
+  {
+    "id": 194,
+    "Question": "Canada has never participated in a space mission.",
+    "Answer": "false"
+  },
+  {
+    "id": 195,
+    "Question": "The province of Saskatchewan is known as the \"Garden Province.\"",
+    "Answer": "false"
+  },
+  {
+    "id": 196,
+    "Question": "Canada's national sport is soccer.",
+    "Answer": "false"
+  },
+  {
+    "id": 197,
+    "Question": "The official motto of Canada is \"Peace, Order, and Good Government.\"",
+    "Answer": "true"
+  },
+  {
+    "id": 198,
+    "Question": "Canada is known for its multiculturalism and diversity.",
+    "Answer": "true"
+  },
+  {
+    "id": 199,
+    "Question": "The national animal of Canada is the polar bear.",
+    "Answer": "false"
+  },
+  {
+    "id": 200,
+    "Question": "The capital city of Canada is Ottawa.",
+    "Answer": "true"
+  },
+  {
+    "id": 201,
+    "Question": "Canada is the third-largest country in the world by land area.",
+    "Answer": "false"
+  },
+  {
+    "id": 202,
+    "Question": "The legal drinking age in Canada is 21 years old.",
+    "Answer": "false"
+  },
+  {
+    "id": 203,
+    "Question": "Canada has a bicameral legislative system.",
+    "Answer": "true"
+  },
+  {
+    "id": 204,
+    "Question": "The national animal of Canada is the moose.",
+    "Answer": "false"
+  },
+  {
+    "id": 205,
+    "Question": "The capital city of Canada is Vancouver.",
+    "Answer": "false"
+  }
+]

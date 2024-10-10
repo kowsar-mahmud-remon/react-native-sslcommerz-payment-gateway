@@ -1,0 +1,4105 @@
+[
+  {
+    "id": 1,
+    "Question": "What is the minimum age requirement to apply for Canadian citizenship?",
+    "Choice A": "16",
+    "Choice B": "18",
+    "Choice C": "21",
+    "Choice D": "25",
+    "Correct Answer": "18"
+  },
+  {
+    "id": 2,
+    "Question": "How long must you have lived in Canada before applying for citizenship?",
+    "Choice A": "2 years",
+    "Choice B": "3 years",
+    "Choice C": "4 years",
+    "Choice D": "5 years",
+    "Correct Answer": "3 years"
+  },
+  {
+    "id": 3,
+    "Question": "Which language proficiency is required for Canadian citizenship?",
+    "Choice A": "Basic knowledge of English or French",
+    "Choice B": "Fluency in English",
+    "Choice C": "Fluency in French",
+    "Choice D": "Basic knowledge of English and French",
+    "Correct Answer": "Basic knowledge of English or French"
+  },
+  {
+    "id": 4,
+    "Question": "What is the test called that applicants must pass to become Canadian citizens?",
+    "Choice A": "Citizenship Examination",
+    "Choice B": "Knowledge of Canada Test",
+    "Choice C": "Canadian Values Test",
+    "Choice D": "Citizenship Test",
+    "Correct Answer": "Citizenship Test"
+  },
+  {
+    "id": 5,
+    "Question": "How many questions are on the Canadian citizenship test?",
+    "Choice A": "20",
+    "Choice B": "25",
+    "Choice C": "30",
+    "Choice D": "35",
+    "Correct Answer": "20"
+  },
+  {
+    "id": 6,
+    "Question": "What is the pass mark for the Canadian citizenship test?",
+    "Choice A": "60%",
+    "Choice B": "70%",
+    "Choice C": "75%",
+    "Choice D": "80%",
+    "Correct Answer": "75%"
+  },
+  {
+    "id": 7,
+    "Question": "Which document must be submitted along with the citizenship application?",
+    "Choice A": "Birth certificate",
+    "Choice B": "Driver's license",
+    "Choice C": "Permanent resident card",
+    "Choice D": "Passport",
+    "Correct Answer": "Permanent resident card"
+  },
+  {
+    "id": 8,
+    "Question": "Which government department processes Canadian citizenship applications?",
+    "Choice A": "Canada Border Services Agency",
+    "Choice B": "Immigration, Refugees and Citizenship Canada",
+    "Choice C": "Employment and Social Development Canada",
+    "Choice D": "Public Safety Canada",
+    "Correct Answer": "Immigration, Refugees and Citizenship Canada"
+  },
+  {
+    "id": 9,
+    "Question": "What fee must be paid when submitting a citizenship application?",
+    "Choice A": "$100",
+    "Choice B": "$200",
+    "Choice C": "$300",
+    "Choice D": "$630",
+    "Correct Answer": "$630"
+  },
+  {
+    "id": 10,
+    "Question": "What is one of the responsibilities of Canadian citizens?",
+    "Choice A": "Serve on a jury",
+    "Choice B": "Vote in federal elections",
+    "Choice C": "Pay taxes",
+    "Choice D": "All of the above",
+    "Correct Answer": "All of the above"
+  },
+  {
+    "id": 11,
+    "Question": "How many provinces and territories are there in Canada?",
+    "Choice A": "10",
+    "Choice B": "12",
+    "Choice C": "13",
+    "Choice D": "14",
+    "Correct Answer": "13"
+  },
+  {
+    "id": 12,
+    "Question": "What is the final step in the citizenship process?",
+    "Choice A": "Passing the citizenship test",
+    "Choice B": "Attending a citizenship ceremony",
+    "Choice C": "Interview with a citizenship judge",
+    "Choice D": "Submitting biometrics",
+    "Correct Answer": "Attending a citizenship ceremony"
+  },
+  {
+    "id": 13,
+    "Question": "What must applicants bring to their citizenship test and interview?",
+    "Choice A": "Identification documents",
+    "Choice B": "Proof of residency",
+    "Choice C": "Language test results",
+    "Choice D": "All of the above",
+    "Correct Answer": "All of the above"
+  },
+  {
+    "id": 14,
+    "Question": "How many languages must you speak to be eligible for Canadian citizenship?",
+    "Choice A": "One",
+    "Choice B": "Two",
+    "Choice C": "Three",
+    "Choice D": "None",
+    "Correct Answer": "One"
+  },
+  {
+    "id": 15,
+    "Question": "What must you demonstrate knowledge of for the citizenship test?",
+    "Choice A": "Canadian history",
+    "Choice B": "Canadian values",
+    "Choice C": "Canadian symbols",
+    "Choice D": "All of the above",
+    "Correct Answer": "All of the above"
+  },
+  {
+    "id": 16,
+    "Question": "Can minors (under 18) apply for citizenship?",
+    "Choice A": "Yes, independently",
+    "Choice B": "Yes, with a parent or guardian",
+    "Choice C": "No, they must wait until 18",
+    "Choice D": "Only if born in Canada",
+    "Correct Answer": "Yes, with a parent or guardian"
+  },
+  {
+    "id": 17,
+    "Question": "What is the term for a new citizen's oath?",
+    "Choice A": "Oath of Allegiance",
+    "Choice B": "Oath of Citizenship",
+    "Choice C": "Oath of Loyalty",
+    "Choice D": "Oath of Canada",
+    "Correct Answer": "Oath of Citizenship"
+  },
+  {
+    "id": 18,
+    "Question": "Which document proves Canadian citizenship?",
+    "Choice A": "Passport",
+    "Choice B": "Permanent resident card",
+    "Choice C": "Citizenship certificate",
+    "Choice D": "Birth certificate",
+    "Correct Answer": "Citizenship certificate"
+  },
+  {
+    "id": 19,
+    "Question": "How can you apply for Canadian citizenship?",
+    "Choice A": "Online",
+    "Choice B": "By mail",
+    "Choice C": "In person",
+    "Choice D": "All of the above",
+    "Correct Answer": "All of the above"
+  },
+  {
+    "id": 20,
+    "Question": "What happens if you fail the citizenship test?",
+    "Choice A": "You can retake the test",
+    "Choice B": "You must wait a year to reapply",
+    "Choice C": "You can appeal the decision",
+    "Choice D": "You must attend an interview",
+    "Correct Answer": "You can retake the test"
+  },
+  {
+    "id": 21,
+    "Question": "What does the citizenship test assess?",
+    "Choice A": "Language skills",
+    "Choice B": "Knowledge of Canada",
+    "Choice C": "Moral character",
+    "Choice D": "All of the above",
+    "Correct Answer": "Knowledge of Canada"
+  },
+  {
+    "id": 22,
+    "Question": "How old must you be to attend the citizenship ceremony?",
+    "Choice A": "14",
+    "Choice B": "16",
+    "Choice C": "18",
+    "Choice D": "Any age",
+    "Correct Answer": "Any age"
+  },
+  {
+    "id": 23,
+    "Question": "What do you receive after taking the Oath of Citizenship?",
+    "Choice A": "Canadian passport",
+    "Choice B": "Permanent resident card",
+    "Choice C": "Citizenship certificate",
+    "Choice D": "Birth certificate",
+    "Correct Answer": "Citizenship certificate"
+  },
+  {
+    "id": 24,
+    "Question": "What must applicants do to show they intend to live in Canada?",
+    "Choice A": "Provide proof of employment",
+    "Choice B": "Sign a declaration",
+    "Choice C": "Purchase property",
+    "Choice D": "None of the above",
+    "Correct Answer": "Sign a declaration"
+  },
+  {
+    "id": 25,
+    "Question": "Can you have dual citizenship with Canada?",
+    "Choice A": "Yes",
+    "Choice B": "No",
+    "Choice C": "Only if born in Canada",
+    "Choice D": "Only with specific countries",
+    "Correct Answer": "Yes"
+  },
+  {
+    "id": 26,
+    "Question": "How do you prove your physical presence in Canada?",
+    "Choice A": "Travel documents",
+    "Choice B": "Utility bills",
+    "Choice C": "Residency calculator",
+    "Choice D": "Employment records",
+    "Correct Answer": "Residency calculator"
+  },
+  {
+    "id": 27,
+    "Question": "What is required to submit an online application for citizenship?",
+    "Choice A": "Email address",
+    "Choice B": "Credit card",
+    "Choice C": "Scanner or camera",
+    "Choice D": "All of the above",
+    "Correct Answer": "All of the above"
+  },
+  {
+    "id": 28,
+    "Question": "What is a common reason for citizenship application rejection?",
+    "Choice A": "Incomplete application",
+    "Choice B": "Insufficient residency days",
+    "Choice C": "Unpaid fees",
+    "Choice D": "All of the above",
+    "Correct Answer": "All of the above"
+  },
+  {
+    "id": 29,
+    "Question": "Who administers the Oath of Citizenship?",
+    "Choice A": "A judge",
+    "Choice B": "A member of parliament",
+    "Choice C": "A citizenship official",
+    "Choice D": "A city mayor",
+    "Correct Answer": "A citizenship official"
+  },
+  {
+    "id": 30,
+    "Question": "What is one right only for Canadian citizens?",
+    "Choice A": "Right to vote",
+    "Choice B": "Right to work",
+    "Choice C": "Right to travel",
+    "Choice D": "Right to education",
+    "Correct Answer": "Right to vote"
+  },
+  {
+    "id": 31,
+    "Question": "Canada has two official languages, English and French.",
+    "Answer": "true"
+  },
+  {
+    "id": 32,
+    "Question": "You must be a permanent resident to apply for Canadian citizenship.",
+    "Answer": "true"
+  },
+  {
+    "id": 33,
+    "Question": "You can apply for Canadian citizenship immediately after becoming a permanent resident.",
+    "Answer": "false"
+  },
+  {
+    "id": 34,
+    "Question": "Canadian citizens can vote in provincial elections.",
+    "Answer": "true"
+  },
+  {
+    "id": 35,
+    "Question": "All Canadian citizenship applicants must pass a knowledge test.",
+    "Answer": "true"
+  },
+  {
+    "id": 36,
+    "Question": "A valid passport is required to apply for Canadian citizenship.",
+    "Answer": "false"
+  },
+  {
+    "id": 37,
+    "Question": "You must demonstrate intent to live in Canada when applying for citizenship.",
+    "Answer": "true"
+  },
+  {
+    "id": 38,
+    "Question": "The citizenship test is available in both English and French.",
+    "Answer": "true"
+  },
+  {
+    "id": 39,
+    "Question": "You must have lived in Canada for at least 1,095 days in the past 5 years to apply for citizenship.",
+    "Answer": "true"
+  },
+  {
+    "id": 40,
+    "Question": "Canadian citizenship can be revoked if obtained through fraud.",
+    "Answer": "true"
+  },
+  {
+    "id": 41,
+    "Question": "What is one of the fundamental freedoms protected by the Canadian Charter of Rights and Freedoms?",
+    "Choice A": "Freedom of speech",
+    "Choice B": "Freedom to own property",
+    "Choice C": "Freedom of employment",
+    "Choice D": "Freedom to drive",
+    "Correct Answer": "Freedom of speech"
+  },
+  {
+    "id": 42,
+    "Question": "Which right is guaranteed by the Canadian Charter of Rights and Freedoms?",
+    "Choice A": "The right to vote",
+    "Choice B": "The right to free healthcare",
+    "Choice C": "The right to free housing",
+    "Choice D": "The right to travel abroad",
+    "Correct Answer": "The right to vote"
+  },
+  {
+    "id": 43,
+    "Question": "Who has the right to vote in federal elections in Canada?",
+    "Choice A": "All residents",
+    "Choice B": "Permanent residents",
+    "Choice C": "Canadian citizens",
+    "Choice D": "Temporary workers",
+    "Correct Answer": "Canadian citizens"
+  },
+  {
+    "id": 44,
+    "Question": "What is a responsibility of Canadian citizens?",
+    "Choice A": "Serving on a jury",
+    "Choice B": "Voting in municipal elections",
+    "Choice C": "Reporting a crime",
+    "Choice D": "None of the above",
+    "Correct Answer": "Serving on a jury"
+  },
+  {
+    "id": 45,
+    "Question": "What is one of the key responsibilities of Canadian citizens?",
+    "Choice A": "To learn both official languages",
+    "Choice B": "To respect the rights and freedoms of others",
+    "Choice C": "To travel frequently",
+    "Choice D": "To serve in the military",
+    "Correct Answer": "To respect the rights and freedoms of others"
+  },
+  {
+    "id": 46,
+    "Question": "What must Canadian citizens do if called to serve on a jury?",
+    "Choice A": "Attend a training session",
+    "Choice B": "Provide a doctor's note",
+    "Choice C": "Serve on the jury",
+    "Choice D": "Pay a fee",
+    "Correct Answer": "Serve on the jury"
+  },
+  {
+    "id": 47,
+    "Question": "What is the right to a fair trial guaranteed by?",
+    "Choice A": "The Criminal Code",
+    "Choice B": "The Canadian Charter of Rights and Freedoms",
+    "Choice C": "The Civil Code",
+    "Choice D": "The National Defense Act",
+    "Correct Answer": "The Canadian Charter of Rights and Freedoms"
+  },
+  {
+    "id": 48,
+    "Question": "What is one of the responsibilities of a Canadian citizen?",
+    "Choice A": "To participate in the democratic process",
+    "Choice B": "To join a political party",
+    "Choice C": "To donate to charity",
+    "Choice D": "To work in public service",
+    "Correct Answer": "To participate in the democratic process"
+  },
+  {
+    "id": 49,
+    "Question": "What is the age requirement to vote in federal elections in Canada?",
+    "Choice A": "16",
+    "Choice B": "18",
+    "Choice C": "21",
+    "Choice D": "25",
+    "Correct Answer": "18"
+  },
+  {
+    "id": 50,
+    "Question": "What must Canadian citizens do to uphold the rule of law?",
+    "Choice A": "Vote in every election",
+    "Choice B": "Respect and obey the law",
+    "Choice C": "Serve in the military",
+    "Choice D": "Own property",
+    "Correct Answer": "Respect and obey the law"
+  },
+  {
+    "id": 51,
+    "Question": "Which right allows Canadian citizens to enter, remain in, and leave Canada?",
+    "Choice A": "Mobility rights",
+    "Choice B": "Legal rights",
+    "Choice C": "Democratic rights",
+    "Choice D": "Equality rights",
+    "Correct Answer": "Mobility rights"
+  },
+  {
+    "id": 52,
+    "Question": "What is the significance of July 1st in Canada?",
+    "Choice A": "Labour Day",
+    "Choice B": "Canada Day",
+    "Choice C": "Remembrance Day",
+    "Choice D": "Thanksgiving",
+    "Correct Answer": "Canada Day"
+  },
+  {
+    "id": 53,
+    "Question": "What is one of the official languages of Canada?",
+    "Choice A": "Spanish",
+    "Choice B": "German",
+    "Choice C": "French",
+    "Choice D": "Italian",
+    "Correct Answer": "French"
+  },
+  {
+    "id": 54,
+    "Question": "What does the Canadian Human Rights Act protect against?",
+    "Choice A": "Workplace discrimination",
+    "Choice B": "Environmental pollution",
+    "Choice C": "High taxes",
+    "Choice D": "Traffic violations",
+    "Correct Answer": "Workplace discrimination"
+  },
+  {
+    "id": 55,
+    "Question": "What is the role of the Governor General in Canada?",
+    "Choice A": "Head of government",
+    "Choice B": "Head of state",
+    "Choice C": "Chief Justice",
+    "Choice D": "Mayor of Ottawa",
+    "Correct Answer": "Head of state"
+  },
+  {
+    "id": 56,
+    "Question": "What is a key principle of the Canadian justice system?",
+    "Choice A": "Guilty until proven innocent",
+    "Choice B": "Innocent until proven guilty",
+    "Choice C": "No trial without a lawyer",
+    "Choice D": "Judges make laws",
+    "Correct Answer": "Innocent until proven guilty"
+  },
+  {
+    "id": 57,
+    "Question": "What is the significance of November 11th in Canada?",
+    "Choice A": "Canada Day",
+    "Choice B": "Labour Day",
+    "Choice C": "Remembrance Day",
+    "Choice D": "Victoria Day",
+    "Correct Answer": "Remembrance Day"
+  },
+  {
+    "id": 58,
+    "Question": "Who is responsible for making sure Canadian laws are obeyed?",
+    "Choice A": "The Prime Minister",
+    "Choice B": "The police",
+    "Choice C": "Members of Parliament",
+    "Choice D": "Citizens",
+    "Correct Answer": "The police"
+  },
+  {
+    "id": 59,
+    "Question": "What is one of the symbols of Canada?",
+    "Choice A": "The Bald Eagle",
+    "Choice B": "The Maple Leaf",
+    "Choice C": "The Liberty Bell",
+    "Choice D": "The Redwood Tree",
+    "Correct Answer": "The Maple Leaf"
+  },
+  {
+    "id": 60,
+    "Question": "What is the name of Canada's national anthem?",
+    "Choice A": "O Canada",
+    "Choice B": "God Save the Queen",
+    "Choice C": "The Star-Spangled Banner",
+    "Choice D": "Advance Australia Fair",
+    "Correct Answer": "O Canada"
+  },
+  {
+    "id": 61,
+    "Question": "What does the right to freedom of association mean?",
+    "Choice A": "The right to join any group or organization",
+    "Choice B": "The right to remain silent",
+    "Choice C": "The right to own property",
+    "Choice D": "The right to privacy",
+    "Correct Answer": "The right to join any group or organization"
+  },
+  {
+    "id": 62,
+    "Question": "What is one of the responsibilities of Canadian citizens?",
+    "Choice A": "To help others in the community",
+    "Choice B": "To learn French",
+    "Choice C": "To travel abroad",
+    "Choice D": "To work for the government",
+    "Correct Answer": "To help others in the community"
+  },
+  {
+    "id": 63,
+    "Question": "What does the right to equality mean in Canada?",
+    "Choice A": "Everyone is equal before the law",
+    "Choice B": "Everyone gets the same income",
+    "Choice C": "Everyone lives in the same type of house",
+    "Choice D": "Everyone has the same job",
+    "Correct Answer": "Everyone is equal before the law"
+  },
+  {
+    "id": 64,
+    "Question": "What does the Canadian Multiculturalism Act recognize?",
+    "Choice A": "The rights of Indigenous peoples",
+    "Choice B": "Canada's multicultural heritage",
+    "Choice C": "Canada's independence",
+    "Choice D": "Canada's official languages",
+    "Correct Answer": "Canada's multicultural heritage"
+  },
+  {
+    "id": 65,
+    "Question": "What is the significance of the Canadian flag?",
+    "Choice A": "It represents the monarchy",
+    "Choice B": "It symbolizes Canadian unity",
+    "Choice C": "It marks historical sites",
+    "Choice D": "It indicates the official language",
+    "Correct Answer": "It symbolizes Canadian unity"
+  },
+  {
+    "id": 66,
+    "Question": "What does freedom of assembly allow Canadians to do?",
+    "Choice A": "Own property",
+    "Choice B": "Form and join groups",
+    "Choice C": "Vote in elections",
+    "Choice D": "Run for office",
+    "Correct Answer": "Form and join groups"
+  },
+  {
+    "id": 67,
+    "Question": "What is one of the key elements of Canadian citizenship?",
+    "Choice A": "The right to free housing",
+    "Choice B": "The right to education",
+    "Choice C": "The right to participate in the democratic process",
+    "Choice D": "The right to travel abroad",
+    "Correct Answer": "The right to participate in the democratic process"
+  },
+  {
+    "id": 68,
+    "Question": "What must Canadian citizens do to help maintain public safety?",
+    "Choice A": "Vote in municipal elections",
+    "Choice B": "Report crimes to the police",
+    "Choice C": "Serve on a jury",
+    "Choice D": "Respect cultural differences",
+    "Correct Answer": "Report crimes to the police"
+  },
+  {
+    "id": 69,
+    "Question": "What is the purpose of the Canadian Bill of Rights?",
+    "Choice A": "To protect the rights and freedoms of Canadians",
+    "Choice B": "To establish provincial laws",
+    "Choice C": "To enforce immigration rules",
+    "Choice D": "To regulate the economy",
+    "Correct Answer": "To protect the rights and freedoms of Canadians"
+  },
+  {
+    "id": 70,
+    "Question": "What is the significance of the right to peaceful assembly?",
+    "Choice A": "It allows Canadians to own firearms",
+    "Choice B": "It allows Canadians to hold public meetings",
+    "Choice C": "It allows Canadians to travel freely",
+    "Choice D": "It allows Canadians to serve on a jury",
+    "Correct Answer": "It allows Canadians to hold public meetings"
+  },
+  {
+    "id": 71,
+    "Question": "Canada has two official languages, English and French.",
+    "Answer": "true"
+  },
+  {
+    "id": 72,
+    "Question": "Canadian citizens have the right to vote in federal elections.",
+    "Answer": "true"
+  },
+  {
+    "id": 73,
+    "Question": "It is not necessary for Canadian citizens to obey the law.",
+    "Answer": "false"
+  },
+  {
+    "id": 74,
+    "Question": "Freedom of speech is protected under the Canadian Charter of Rights and Freedoms.",
+    "Answer": "true"
+  },
+  {
+    "id": 75,
+    "Question": "Canadian citizens have the responsibility to respect the rights of others.",
+    "Answer": "true"
+  },
+  {
+    "id": 76,
+    "Question": "Serving on a jury is a responsibility of Canadian citizens.",
+    "Answer": "true"
+  },
+  {
+    "id": 77,
+    "Question": "The right to equality means everyone in Canada gets the same income.",
+    "Answer": "false"
+  },
+  {
+    "id": 78,
+    "Question": "Canada’s national flag has a red maple leaf in the center.",
+    "Answer": "true"
+  },
+  {
+    "id": 79,
+    "Question": "The Canadian Multiculturalism Act recognizes Canada’s multicultural heritage.",
+    "Answer": "true"
+  },
+  {
+    "id": 80,
+    "Question": "Freedom of assembly allows Canadians to vote in elections.",
+    "Answer": "false"
+  },
+  {
+    "id": 81,
+    "Question": "Which country is known as 'The Great White North'?",
+    "Choice A": "Russia",
+    "Choice B": "Canada",
+    "Choice C": "Norway",
+    "Choice D": "Iceland",
+    "Correct Answer": "Canada"
+  },
+  {
+    "id": 82,
+    "Question": "What is the capital city of Canada?",
+    "Choice A": "Toronto",
+    "Choice B": "Vancouver",
+    "Choice C": "Ottawa",
+    "Choice D": "Montreal",
+    "Correct Answer": "Ottawa"
+  },
+  {
+    "id": 83,
+    "Question": "What are the official languages of Canada?",
+    "Choice A": "English and French",
+    "Choice B": "English and Spanish",
+    "Choice C": "English and German",
+    "Choice D": "English and Chinese",
+    "Correct Answer": "English and French"
+  },
+  {
+    "id": 84,
+    "Question": "Who was the first Prime Minister of Canada?",
+    "Choice A": "John A. Macdonald",
+    "Choice B": "Wilfrid Laurier",
+    "Choice C": "Pierre Trudeau",
+    "Choice D": "Alexander Mackenzie",
+    "Correct Answer": "John A. Macdonald"
+  },
+  {
+    "id": 85,
+    "Question": "What is the population of Canada?",
+    "Choice A": "Approximately 10 million",
+    "Choice B": "Approximately 20 million",
+    "Choice C": "Approximately 30 million",
+    "Choice D": "Approximately 40 million",
+    "Correct Answer": "Approximately 40 million"
+  },
+  {
+    "id": 86,
+    "Question": "Which province is the largest by area in Canada?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "British Columbia",
+    "Choice D": "Alberta",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 87,
+    "Question": "What is the national sport of Canada?",
+    "Choice A": "Ice Hockey",
+    "Choice B": "Lacrosse",
+    "Choice C": "Curling",
+    "Choice D": "Soccer",
+    "Correct Answer": "Ice Hockey"
+  },
+  {
+    "id": 88,
+    "Question": "What is the longest river in Canada?",
+    "Choice A": "Mackenzie River",
+    "Choice B": "St. Lawrence River",
+    "Choice C": "Fraser River",
+    "Choice D": "Ottawa River",
+    "Correct Answer": "Mackenzie River"
+  },
+  {
+    "id": 89,
+    "Question": "Which Canadian city is known for its annual Stampede?",
+    "Choice A": "Toronto",
+    "Choice B": "Vancouver",
+    "Choice C": "Calgary",
+    "Choice D": "Montreal",
+    "Correct Answer": "Calgary"
+  },
+  {
+    "id": 90,
+    "Question": "What is the highest mountain in Canada?",
+    "Choice A": "Mount Logan",
+    "Choice B": "Mount Robson",
+    "Choice C": "Mount Saint Elias",
+    "Choice D": "Mount Waddington",
+    "Correct Answer": "Mount Logan"
+  },
+  {
+    "id": 91,
+    "Question": "Who is the current Prime Minister of Canada?",
+    "Choice A": "Stephen Harper",
+    "Choice B": "Justin Trudeau",
+    "Choice C": "Jean Chrétien",
+    "Choice D": "Paul Martin",
+    "Correct Answer": "Justin Trudeau"
+  },
+  {
+    "id": 92,
+    "Question": "Which ocean is on the west coast of Canada?",
+    "Choice A": "Atlantic Ocean",
+    "Choice B": "Indian Ocean",
+    "Choice C": "Arctic Ocean",
+    "Choice D": "Pacific Ocean",
+    "Correct Answer": "Pacific Ocean"
+  },
+  {
+    "id": 93,
+    "Question": "What is the national anthem of Canada?",
+    "Choice A": "God Save the Queen",
+    "Choice B": "The Star-Spangled Banner",
+    "Choice C": "La Marseillaise",
+    "Choice D": "O Canada",
+    "Correct Answer": "O Canada"
+  },
+  {
+    "id": 94,
+    "Question": "Which province is Canada's most populous?",
+    "Choice A": "Alberta",
+    "Choice B": "British Columbia",
+    "Choice C": "Quebec",
+    "Choice D": "Ontario",
+    "Correct Answer": "Ontario"
+  },
+  {
+    "id": 95,
+    "Question": "Which Canadian city hosted the 2010 Winter Olympics?",
+    "Choice A": "Toronto",
+    "Choice B": "Vancouver",
+    "Choice C": "Montreal",
+    "Choice D": "Calgary",
+    "Correct Answer": "Vancouver"
+  },
+  {
+    "id": 96,
+    "Question": "What is the national animal of Canada?",
+    "Choice A": "Moose",
+    "Choice B": "Beaver",
+    "Choice C": "Grizzly Bear",
+    "Choice D": "Caribou",
+    "Correct Answer": "Beaver"
+  },
+  {
+    "id": 97,
+    "Question": "Which province is known as the 'Land of 100,000 Lakes'?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "Manitoba",
+    "Choice D": "Saskatchewan",
+    "Correct Answer": "Manitoba"
+  },
+  {
+    "id": 98,
+    "Question": "Which of the following is a major export of Canada?",
+    "Choice A": "Oil and gas",
+    "Choice B": "Automobiles",
+    "Choice C": "Textiles",
+    "Choice D": "Electronics",
+    "Correct Answer": "Oil and gas"
+  },
+  {
+    "id": 99,
+    "Question": "What is the largest island in Canada?",
+    "Choice A": "Vancouver Island",
+    "Choice B": "Baffin Island",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Manitoulin Island",
+    "Correct Answer": "Baffin Island"
+  },
+  {
+    "id": 100,
+    "Question": "Which is the smallest province in Canada by land area?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "Prince Edward Island",
+    "Choice C": "New Brunswick",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "Prince Edward Island"
+  },
+  {
+    "id": 101,
+    "Question": "What is the name of the national police force in Canada?",
+    "Choice A": "FBI",
+    "Choice B": "CIA",
+    "Choice C": "RCMP",
+    "Choice D": "MI5",
+    "Correct Answer": "RCMP"
+  },
+  {
+    "id": 102,
+    "Question": "Which Canadian city is known for its French heritage?",
+    "Choice A": "Toronto",
+    "Choice B": "Vancouver",
+    "Choice C": "Quebec City",
+    "Choice D": "Calgary",
+    "Correct Answer": "Quebec City"
+  },
+  {
+    "id": 103,
+    "Question": "What is the official winter sport of Canada?",
+    "Choice A": "Curling",
+    "Choice B": "Ice Hockey",
+    "Choice C": "Skiing",
+    "Choice D": "Snowboarding",
+    "Correct Answer": "Ice Hockey"
+  },
+  {
+    "id": 104,
+    "Question": "Which province has the most fresh water?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "British Columbia",
+    "Choice D": "Alberta",
+    "Correct Answer": "Ontario"
+  },
+  {
+    "id": 105,
+    "Question": "What is the primary currency used in Canada?",
+    "Choice A": "US Dollar",
+    "Choice B": "Euro",
+    "Choice C": "Canadian Dollar",
+    "Choice D": "British Pound",
+    "Correct Answer": "Canadian Dollar"
+  },
+  {
+    "id": 106,
+    "Question": "What does the maple leaf on the Canadian flag represent?",
+    "Choice A": "The provinces",
+    "Choice B": "The territories",
+    "Choice C": "The unity and diversity of Canadians",
+    "Choice D": "The natural environment",
+    "Correct Answer": "The unity and diversity of Canadians"
+  },
+  {
+    "id": 107,
+    "Question": "Which is the longest-serving Prime Minister in Canadian history?",
+    "Choice A": "William Lyon Mackenzie King",
+    "Choice B": "John A. Macdonald",
+    "Choice C": "Pierre Trudeau",
+    "Choice D": "Stephen Harper",
+    "Correct Answer": "William Lyon Mackenzie King"
+  },
+  {
+    "id": 108,
+    "Question": "What is the largest city in Canada by population?",
+    "Choice A": "Toronto",
+    "Choice B": "Vancouver",
+    "Choice C": "Montreal",
+    "Choice D": "Calgary",
+    "Correct Answer": "Toronto"
+  },
+  {
+    "id": 109,
+    "Question": "Which Canadian province is the only one that is officially bilingual?",
+    "Choice A": "New Brunswick",
+    "Choice B": "Ontario",
+    "Choice C": "Quebec",
+    "Choice D": "Manitoba",
+    "Correct Answer": "New Brunswick"
+  },
+  {
+    "id": 110,
+    "Question": "Which of the following is a key cultural symbol of Canada?",
+    "Choice A": "The Eiffel Tower",
+    "Choice B": "The Maple Leaf",
+    "Choice C": "The Statue of Liberty",
+    "Choice D": "Big Ben",
+    "Correct Answer": "The Maple Leaf"
+  },
+  {
+    "id": 111,
+    "Question": "Canada is the second largest country in the world by land area.",
+    "Answer": "true"
+  },
+  {
+    "id": 112,
+    "Question": "Canada is a monarchy.",
+    "Answer": "true"
+  },
+  {
+    "id": 113,
+    "Question": "Canada's national animal is the moose.",
+    "Answer": "false"
+  },
+  {
+    "id": 114,
+    "Question": "Toronto is the capital city of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 115,
+    "Question": "Canada has ten provinces and three territories.",
+    "Answer": "true"
+  },
+  {
+    "id": 116,
+    "Question": "The official summer sport of Canada is lacrosse.",
+    "Answer": "true"
+  },
+  {
+    "id": 117,
+    "Question": "French is the most widely spoken language in Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 118,
+    "Question": "Canada's national anthem is 'O Canada'.",
+    "Answer": "true"
+  },
+  {
+    "id": 119,
+    "Question": "The beaver is one of the national symbols of Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 120,
+    "Question": "The capital of the province of Alberta is Edmonton.",
+    "Answer": "true"
+  },
+  {
+    "id": 121,
+    "Question": "When did Canada become a country?",
+    "Choice A": "1867",
+    "Choice B": "1776",
+    "Choice C": "1812",
+    "Choice D": "1901",
+    "Correct Answer": "1867"
+  },
+  {
+    "id": 122,
+    "Question": "Who was the first European explorer to reach Canada?",
+    "Choice A": "Jacques Cartier",
+    "Choice B": "John Cabot",
+    "Choice C": "Samuel de Champlain",
+    "Choice D": "Henry Hudson",
+    "Correct Answer": "John Cabot"
+  },
+  {
+    "id": 123,
+    "Question": "Which war between the British and French was fought in Canada?",
+    "Choice A": "American Revolutionary War",
+    "Choice B": "War of 1812",
+    "Choice C": "French Revolution",
+    "Choice D": "Seven Years' War",
+    "Correct Answer": "Seven Years' War"
+  },
+  {
+    "id": 124,
+    "Question": "Which treaty established British sovereignty over Canada?",
+    "Choice A": "Treaty of Paris (1763)",
+    "Choice B": "Treaty of Versailles",
+    "Choice C": "Maastricht Treaty",
+    "Choice D": "Montreal Treaty",
+    "Correct Answer": "Treaty of Paris (1763)"
+  },
+  {
+    "id": 125,
+    "Question": "Who was the first Prime Minister of Canada?",
+    "Choice A": "Wilfrid Laurier",
+    "Choice B": "John A. Macdonald",
+    "Choice C": "Pierre Trudeau",
+    "Choice D": "Alexander Mackenzie",
+    "Correct Answer": "John A. Macdonald"
+  },
+  {
+    "id": 126,
+    "Question": "When did Newfoundland and Labrador join Canada?",
+    "Choice A": "1867",
+    "Choice B": "1949",
+    "Choice C": "1871",
+    "Choice D": "1905",
+    "Correct Answer": "1949"
+  },
+  {
+    "id": 127,
+    "Question": "Which event led to the creation of Nunavut as a territory in Canada?",
+    "Choice A": "Confederation",
+    "Choice B": "Patriation of the Constitution",
+    "Choice C": "Land Claims Agreement",
+    "Choice D": "Nunavut Act",
+    "Correct Answer": "Nunavut Act"
+  },
+  {
+    "id": 128,
+    "Question": "Who was the first Indigenous person to serve as Governor General of Canada?",
+    "Choice A": "Roméo LeBlanc",
+    "Choice B": "Jeanne Sauvé",
+    "Choice C": "Michaëlle Jean",
+    "Choice D": "Georges Vanier",
+    "Correct Answer": "Michaëlle Jean"
+  },
+  {
+    "id": 129,
+    "Question": "Which Canadian city hosted the Expo 67 world fair?",
+    "Choice A": "Toronto",
+    "Choice B": "Montreal",
+    "Choice C": "Vancouver",
+    "Choice D": "Quebec City",
+    "Correct Answer": "Montreal"
+  },
+  {
+    "id": 130,
+    "Question": "Who was the leader of the Métis during the Red River Resistance?",
+    "Choice A": "Louis Riel",
+    "Choice B": "Gabriel Dumont",
+    "Choice C": "Poundmaker",
+    "Choice D": "Big Bear",
+    "Correct Answer": "Louis Riel"
+  },
+  {
+    "id": 131,
+    "Question": "Which political party introduced the idea of the Canadian Charter of Rights and Freedoms?",
+    "Choice A": "Progressive Conservative Party",
+    "Choice B": "Liberal Party",
+    "Choice C": "New Democratic Party",
+    "Choice D": "Bloc Québécois",
+    "Correct Answer": "Liberal Party"
+  },
+  {
+    "id": 132,
+    "Question": "Which of these was NOT a major battle fought by Canadians in World War I?",
+    "Choice A": "Battle of Vimy Ridge",
+    "Choice B": "Battle of the Somme",
+    "Choice C": "Battle of Passchendaele",
+    "Choice D": "Battle of Stalingrad",
+    "Correct Answer": "Battle of Stalingrad"
+  },
+  {
+    "id": 133,
+    "Question": "When did Canada gain full independence from Britain?",
+    "Choice A": "1867",
+    "Choice B": "1931",
+    "Choice C": "1982",
+    "Choice D": "1949",
+    "Correct Answer": "1931"
+  },
+  {
+    "id": 134,
+    "Question": "What was the name of the famous ship that sank in the Atlantic in 1912 and had many Canadian passengers on board?",
+    "Choice A": "Lusitania",
+    "Choice B": "Titanic",
+    "Choice C": "Britannic",
+    "Choice D": "Mauretania",
+    "Correct Answer": "Titanic"
+  },
+  {
+    "id": 135,
+    "Question": "Who was the founder of Quebec City?",
+    "Choice A": "Samuel de Champlain",
+    "Choice B": "Jacques Cartier",
+    "Choice C": "Louis Jolliet",
+    "Choice D": "René Lévesque",
+    "Correct Answer": "Samuel de Champlain"
+  },
+  {
+    "id": 136,
+    "Question": "Which Prime Minister introduced the Official Languages Act, making English and French the official languages of Canada?",
+    "Choice A": "Pierre Trudeau",
+    "Choice B": "Brian Mulroney",
+    "Choice C": "Jean Chrétien",
+    "Choice D": "Lester B. Pearson",
+    "Correct Answer": "Pierre Trudeau"
+  },
+  {
+    "id": 137,
+    "Question": "Which province joined Confederation last?",
+    "Choice A": "British Columbia",
+    "Choice B": "Alberta",
+    "Choice C": "Newfoundland and Labrador",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Newfoundland and Labrador"
+  },
+  {
+    "id": 138,
+    "Question": "Which Canadian leader is known for introducing the policy of multiculturalism?",
+    "Choice A": "Pierre Trudeau",
+    "Choice B": "John Diefenbaker",
+    "Choice C": "Lester B. Pearson",
+    "Choice D": "Jean Chrétien",
+    "Correct Answer": "Pierre Trudeau"
+  },
+  {
+    "id": 139,
+    "Question": "What was the name of the military operation that liberated the Netherlands in World War II?",
+    "Choice A": "Operation Desert Storm",
+    "Choice B": "Operation Overlord",
+    "Choice C": "Operation Husky",
+    "Choice D": "Operation Market Garden",
+    "Correct Answer": "Operation Market Garden"
+  },
+  {
+    "id": 140,
+    "Question": "Which Canadian province was known as Rupert's Land before joining Confederation?",
+    "Choice A": "Manitoba",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Ontario",
+    "Choice D": "Quebec",
+    "Correct Answer": "Manitoba"
+  },
+  {
+    "id": 141,
+    "Question": "The Canadian Pacific Railway was completed in 1873.",
+    "Answer": "false"
+  },
+  {
+    "id": 142,
+    "Question": "Canada's first Prime Minister, John A. Macdonald, served as PM for over 20 years.",
+    "Answer": "true"
+  },
+  {
+    "id": 143,
+    "Question": "The Battle of Vimy Ridge was a significant World War II battle for Canadians.",
+    "Answer": "false"
+  },
+  {
+    "id": 144,
+    "Question": "The Quiet Revolution took place in Quebec during the 1960s.",
+    "Answer": "true"
+  },
+  {
+    "id": 145,
+    "Question": "Canada participated in the Korean War in the 1950s.",
+    "Answer": "true"
+  },
+  {
+    "id": 146,
+    "Question": "The Charlottetown Conference led to the formation of Canada as a country.",
+    "Answer": "false"
+  },
+  {
+    "id": 147,
+    "Question": "The British North America Act was passed in 1867, creating the Dominion of Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 148,
+    "Question": "Canada's role in World War II included the Battle of the Atlantic.",
+    "Answer": "true"
+  },
+  {
+    "id": 149,
+    "Question": "The Oka Crisis of 1990 primarily involved disputes over fishing rights.",
+    "Answer": "false"
+  },
+  {
+    "id": 150,
+    "Question": "The National Energy Program was introduced by Pierre Trudeau in the 1970s.",
+    "Answer": "true"
+  },
+  {
+    "id": 151,
+    "Question": "Which province is known for its oil sands?",
+    "Choice A": "British Columbia",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Alberta",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 152,
+    "Question": "Who was the first female Prime Minister of Canada?",
+    "Choice A": "Kim Campbell",
+    "Choice B": "Rona Ambrose",
+    "Choice C": "Chrystia Freeland",
+    "Choice D": "Lisa Raitt",
+    "Correct Answer": "Kim Campbell"
+  },
+  {
+    "id": 153,
+    "Question": "Which city hosted the 2010 Winter Olympics?",
+    "Choice A": "Toronto",
+    "Choice B": "Vancouver",
+    "Choice C": "Calgary",
+    "Choice D": "Montreal",
+    "Correct Answer": "Vancouver"
+  },
+  {
+    "id": 154,
+    "Question": "Which Canadian province was the first to legalize recreational cannabis?",
+    "Choice A": "British Columbia",
+    "Choice B": "Ontario",
+    "Choice C": "Alberta",
+    "Choice D": "Quebec",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 155,
+    "Question": "Which Canadian province has the highest population density?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "British Columbia",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Prince Edward Island"
+  },
+  {
+    "id": 156,
+    "Question": "What is the capital city of Nunavut?",
+    "Choice A": "Yellowknife",
+    "Choice B": "Iqaluit",
+    "Choice C": "Whitehorse",
+    "Choice D": "Rankin Inlet",
+    "Correct Answer": "Iqaluit"
+  },
+  {
+    "id": 157,
+    "Question": "Which Canadian city has the highest cost of living?",
+    "Choice A": "Vancouver",
+    "Choice B": "Toronto",
+    "Choice C": "Calgary",
+    "Choice D": "Montreal",
+    "Correct Answer": "Vancouver"
+  },
+  {
+    "id": 158,
+    "Question": "Which province is known for its vibrant French-speaking culture?",
+    "Choice A": "Ontario",
+    "Choice B": "Manitoba",
+    "Choice C": "Saskatchewan",
+    "Choice D": "Quebec",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 159,
+    "Question": "Which Canadian Prime Minister introduced the Goods and Services Tax (GST)?",
+    "Choice A": "Brian Mulroney",
+    "Choice B": "Jean Chrétien",
+    "Choice C": "Stephen Harper",
+    "Choice D": "Paul Martin",
+    "Correct Answer": "Brian Mulroney"
+  },
+  {
+    "id": 160,
+    "Question": "Which province is known for its strong ties to the fishing industry?",
+    "Choice A": "Alberta",
+    "Choice B": "British Columbia",
+    "Choice C": "Nova Scotia",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 161,
+    "Question": "Which Canadian city is known for its film industry and the TIFF (Toronto International Film Festival)?",
+    "Choice A": "Vancouver",
+    "Choice B": "Toronto",
+    "Choice C": "Montreal",
+    "Choice D": "Calgary",
+    "Correct Answer": "Toronto"
+  },
+  {
+    "id": 162,
+    "Question": "Which province is known for its rich Indigenous heritage and cultural festivals?",
+    "Choice A": "Alberta",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Manitoba",
+    "Choice D": "British Columbia",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 163,
+    "Question": "Which Canadian Prime Minister was known for his advocacy on climate change and environmental policies?",
+    "Choice A": "Justin Trudeau",
+    "Choice B": "Stephen Harper",
+    "Choice C": "Paul Martin",
+    "Choice D": "Jean Chrétien",
+    "Correct Answer": "Justin Trudeau"
+  },
+  {
+    "id": 164,
+    "Question": "Which province is known for its annual Calgary Stampede event?",
+    "Choice A": "Manitoba",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Alberta",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 165,
+    "Question": "Which Canadian city is a major hub for technology companies and startups?",
+    "Choice A": "Toronto",
+    "Choice B": "Vancouver",
+    "Choice C": "Montreal",
+    "Choice D": "Waterloo",
+    "Correct Answer": "Waterloo"
+  },
+  {
+    "id": 166,
+    "Question": "Which province is known for its vibrant music and cultural festivals such as the Winnipeg Folk Festival?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "Newfoundland and Labrador",
+    "Choice C": "Saskatchewan",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Manitoba"
+  },
+  {
+    "id": 167,
+    "Question": "Which Canadian Prime Minister is known for implementing the Canada Child Benefit?",
+    "Choice A": "Justin Trudeau",
+    "Choice B": "Stephen Harper",
+    "Choice C": "Paul Martin",
+    "Choice D": "Jean Chrétien",
+    "Correct Answer": "Justin Trudeau"
+  },
+  {
+    "id": 168,
+    "Question": "Which province is known for its stunning national parks like Banff and Jasper?",
+    "Choice A": "Ontario",
+    "Choice B": "Alberta",
+    "Choice C": "Quebec",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 169,
+    "Question": "Which Canadian city is known as 'The City of Festivals'?",
+    "Choice A": "Toronto",
+    "Choice B": "Montreal",
+    "Choice C": "Vancouver",
+    "Choice D": "Calgary",
+    "Correct Answer": "Montreal"
+  },
+  {
+    "id": 170,
+    "Question": "Which province is known for its lobster fishing industry?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "Newfoundland and Labrador",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "New Brunswick",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 171,
+    "Question": "Canada's official summer sport is lacrosse.",
+    "Answer": "true"
+  },
+  {
+    "id": 172,
+    "Question": "The Toronto Raptors are the only Canadian team in the NBA.",
+    "Answer": "false"
+  },
+  {
+    "id": 173,
+    "Question": "Canada has two official languages, English and Spanish.",
+    "Answer": "false"
+  },
+  {
+    "id": 174,
+    "Question": "Montreal is the largest city in Quebec.",
+    "Answer": "false"
+  },
+  {
+    "id": 175,
+    "Question": "The Canadian dollar is the official currency of Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 176,
+    "Question": "Canada is a constitutional monarchy with a parliamentary democracy.",
+    "Answer": "true"
+  },
+  {
+    "id": 177,
+    "Question": "Toronto is the capital city of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 178,
+    "Question": "Hockey Night in Canada is a popular television program dedicated to ice hockey.",
+    "Answer": "true"
+  },
+  {
+    "id": 179,
+    "Question": "The CN Tower in Toronto was once the tallest freestanding structure in the world.",
+    "Answer": "true"
+  },
+  {
+    "id": 180,
+    "Question": "Canada's national animal is the beaver.",
+    "Answer": "true"
+  },
+  {
+    "id": 181,
+    "Question": "Who is the head of state in Canada?",
+    "Choice A": "Prime Minister",
+    "Choice B": "Governor General",
+    "Choice C": "Queen Elizabeth II",
+    "Choice D": "Speaker of the House",
+    "Correct Answer": "Queen Elizabeth II"
+  },
+  {
+    "id": 182,
+    "Question": "Which document outlines the basic laws and principles of Canada's government?",
+    "Choice A": "Constitution Act, 1867",
+    "Choice B": "Official Languages Act",
+    "Choice C": "Charter of Rights and Freedoms",
+    "Choice D": "National Anthem Act",
+    "Correct Answer": "Constitution Act, 1867"
+  },
+  {
+    "id": 183,
+    "Question": "How often are federal elections held in Canada?",
+    "Choice A": "Every 2 years",
+    "Choice B": "Every 3 years",
+    "Choice C": "Every 4 years",
+    "Choice D": "Whenever the Prime Minister decides",
+    "Correct Answer": "Every 4 years"
+  },
+  {
+    "id": 184,
+    "Question": "Who can vote in federal elections in Canada?",
+    "Choice A": "Canadian citizens aged 18 or older",
+    "Choice B": "Permanent residents aged 18 or older",
+    "Choice C": "Canadian citizens aged 16 or older",
+    "Choice D": "Anyone living in Canada",
+    "Correct Answer": "Canadian citizens aged 18 or older"
+  },
+  {
+    "id": 185,
+    "Question": "What is the upper chamber of Canada's Parliament called?",
+    "Choice A": "House of Commons",
+    "Choice B": "Senate",
+    "Choice C": "Cabinet",
+    "Choice D": "Privy Council",
+    "Correct Answer": "Senate"
+  },
+  {
+    "id": 186,
+    "Question": "Who appoints senators in Canada?",
+    "Choice A": "Prime Minister",
+    "Choice B": "Premiers of provinces",
+    "Choice C": "Governor General",
+    "Choice D": "Queen Elizabeth II",
+    "Correct Answer": "Governor General"
+  },
+  {
+    "id": 187,
+    "Question": "Which level of government is responsible for education and health care in Canada?",
+    "Choice A": "Federal",
+    "Choice B": "Provincial and territorial",
+    "Choice C": "Municipal",
+    "Choice D": "Indigenous",
+    "Correct Answer": "Provincial and territorial"
+  },
+  {
+    "id": 188,
+    "Question": "Who is the leader of the political party that wins the most seats in the House of Commons?",
+    "Choice A": "Speaker of the House",
+    "Choice B": "Governor General",
+    "Choice C": "Prime Minister",
+    "Choice D": "Opposition Leader",
+    "Correct Answer": "Prime Minister"
+  },
+  {
+    "id": 189,
+    "Question": "What is the term length for a member of Parliament (MP) in Canada?",
+    "Choice A": "4 years",
+    "Choice B": "5 years",
+    "Choice C": "6 years",
+    "Choice D": "8 years",
+    "Correct Answer": "4 years"
+  },
+  {
+    "id": 190,
+    "Question": "Which Canadian province is governed by a legislative assembly rather than a provincial parliament?",
+    "Choice A": "Quebec",
+    "Choice B": "Nova Scotia",
+    "Choice C": "Saskatchewan",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 191,
+    "Question": "What is the role of the Lieutenant Governor in Canadian provinces?",
+    "Choice A": "Represent the Queen in the province",
+    "Choice B": "Chair the legislative assembly",
+    "Choice C": "Lead the provincial government",
+    "Choice D": "Appoint senators",
+    "Correct Answer": "Represent the Queen in the province"
+  },
+  {
+    "id": 192,
+    "Question": "Which federal department is responsible for immigration and citizenship?",
+    "Choice A": "Department of National Defence",
+    "Choice B": "Department of Justice",
+    "Choice C": "Department of Immigration, Refugees and Citizenship",
+    "Choice D": "Department of Public Safety",
+    "Correct Answer": "Department of Immigration, Refugees and Citizenship"
+  },
+  {
+    "id": 193,
+    "Question": "What is the highest court in Canada?",
+    "Choice A": "Federal Court",
+    "Choice B": "Supreme Court",
+    "Choice C": "Provincial Court",
+    "Choice D": "Appeal Court",
+    "Correct Answer": "Supreme Court"
+  },
+  {
+    "id": 194,
+    "Question": "Who is Canada's current Prime Minister?",
+    "Choice A": "Justin Trudeau",
+    "Choice B": "Andrew Scheer",
+    "Choice C": "Jagmeet Singh",
+    "Choice D": "Elizabeth May",
+    "Correct Answer": "Justin Trudeau"
+  },
+  {
+    "id": 195,
+    "Question": "What is the role of the Speaker of the House of Commons?",
+    "Choice A": "Lead the government caucus",
+    "Choice B": "Preside over debates",
+    "Choice C": "Appoint judges",
+    "Choice D": "Control the Senate",
+    "Correct Answer": "Preside over debates"
+  },
+  {
+    "id": 196,
+    "Question": "Which federal agency is responsible for managing Canada's economy and financial systems?",
+    "Choice A": "Canada Revenue Agency",
+    "Choice B": "Bank of Canada",
+    "Choice C": "Department of Finance",
+    "Choice D": "Statistics Canada",
+    "Correct Answer": "Department of Finance"
+  },
+  {
+    "id": 197,
+    "Question": "Who represents the Queen in the federal government?",
+    "Choice A": "Prime Minister",
+    "Choice B": "Governor General",
+    "Choice C": "Speaker of the House",
+    "Choice D": "Leader of the Opposition",
+    "Correct Answer": "Governor General"
+  },
+  {
+    "id": 198,
+    "Question": "Which of these is NOT a fundamental freedom guaranteed by the Canadian Charter of Rights and Freedoms?",
+    "Choice A": "Freedom of speech",
+    "Choice B": "Freedom of religion",
+    "Choice C": "Right to privacy",
+    "Choice D": "Right to bear arms",
+    "Correct Answer": "Right to bear arms"
+  },
+  {
+    "id": 199,
+    "Question": "Which level of government is responsible for criminal law in Canada?",
+    "Choice A": "Federal",
+    "Choice B": "Provincial and territorial",
+    "Choice C": "Municipal",
+    "Choice D": "Indigenous",
+    "Correct Answer": "Federal"
+  },
+  {
+    "id": 200,
+    "Question": "What is the name of the official residence of the Prime Minister of Canada?",
+    "Choice A": "Rideau Hall",
+    "Choice B": "24 Sussex Drive",
+    "Choice C": "Stornoway",
+    "Choice D": "Rideau Cottage",
+    "Correct Answer": "24 Sussex Drive"
+  },
+  {
+    "id": 201,
+    "Question": "Canada operates under a federal system of government.",
+    "Answer": "true"
+  },
+  {
+    "id": 202,
+    "Question": "The Canadian Parliament consists of two houses: the House of Commons and the Senate.",
+    "Answer": "true"
+  },
+  {
+    "id": 203,
+    "Question": "The Prime Minister of Canada is elected directly by the people.",
+    "Answer": "false"
+  },
+  {
+    "id": 204,
+    "Question": "Canada's legal system is based on the British common law tradition.",
+    "Answer": "true"
+  },
+  {
+    "id": 205,
+    "Question": "The Governor General has the power to veto bills passed by Parliament.",
+    "Answer": "false"
+  },
+  {
+    "id": 206,
+    "Question": "The Constitution Act, 1982, includes the Canadian Charter of Rights and Freedoms.",
+    "Answer": "true"
+  },
+  {
+    "id": 207,
+    "Question": "The Supreme Court of Canada has the final authority on interpreting Canada's constitution.",
+    "Answer": "true"
+  },
+  {
+    "id": 208,
+    "Question": "Canada has both federal and provincial levels of government, but no municipal level.",
+    "Answer": "false"
+  },
+  {
+    "id": 209,
+    "Question": "The Queen of Canada is the same person as the Queen of the United Kingdom.",
+    "Answer": "true"
+  },
+  {
+    "id": 210,
+    "Question": "Senators in Canada are appointed for life.",
+    "Answer": "false"
+  },
+  {
+    "id": 211,
+    "Question": "How often are federal elections generally held in Canada?",
+    "Choice A": "Every 2 years",
+    "Choice B": "Every 3 years",
+    "Choice C": "Every 4 years",
+    "Choice D": "Every 5 years",
+    "Correct Answer": "Every 4 years"
+  },
+  {
+    "id": 212,
+    "Question": "What is the voting age for federal elections in Canada?",
+    "Choice A": "16",
+    "Choice B": "18",
+    "Choice C": "21",
+    "Choice D": "25",
+    "Correct Answer": "18"
+  },
+  {
+    "id": 213,
+    "Question": "Who is eligible to vote in federal elections in Canada?",
+    "Choice A": "Canadian citizens aged 16 or older",
+    "Choice B": "Canadian citizens aged 18 or older",
+    "Choice C": "Permanent residents aged 18 or older",
+    "Choice D": "Anyone who lives in Canada",
+    "Correct Answer": "Canadian citizens aged 18 or older"
+  },
+  {
+    "id": 214,
+    "Question": "Which political party was the first to form a government in Canada?",
+    "Choice A": "Liberal Party",
+    "Choice B": "Conservative Party",
+    "Choice C": "New Democratic Party",
+    "Choice D": "Progressive Conservative Party",
+    "Correct Answer": "Liberal Party"
+  },
+  {
+    "id": 215,
+    "Question": "What is the name of the agency responsible for overseeing federal elections in Canada?",
+    "Choice A": "Elections Canada",
+    "Choice B": "Canadian Electoral Commission",
+    "Choice C": "Federal Election Agency",
+    "Choice D": "Parliamentary Elections Committee",
+    "Correct Answer": "Elections Canada"
+  },
+  {
+    "id": 216,
+    "Question": "Which federal political party is known for its advocacy on environmental issues?",
+    "Choice A": "Liberal Party",
+    "Choice B": "Conservative Party",
+    "Choice C": "Green Party",
+    "Choice D": "Bloc Québécois",
+    "Correct Answer": "Green Party"
+  },
+  {
+    "id": 217,
+    "Question": "Who is responsible for calling a federal election in Canada?",
+    "Choice A": "Prime Minister",
+    "Choice B": "Governor General",
+    "Choice C": "Leader of the Opposition",
+    "Choice D": "Chief Electoral Officer",
+    "Correct Answer": "Governor General"
+  },
+  {
+    "id": 218,
+    "Question": "In a federal election, what determines the number of seats a political party wins in the House of Commons?",
+    "Choice A": "Popular vote percentage",
+    "Choice B": "Number of registered members",
+    "Choice C": "Fundraising amount",
+    "Choice D": "Number of party offices",
+    "Correct Answer": "Popular vote percentage"
+  },
+  {
+    "id": 219,
+    "Question": "Who can run as a candidate in a federal election in Canada?",
+    "Choice A": "Canadian citizens aged 16 or older",
+    "Choice B": "Permanent residents",
+    "Choice C": "Canadian citizens aged 18 or older",
+    "Choice D": "Anyone living in Canada",
+    "Correct Answer": "Canadian citizens aged 18 or older"
+  },
+  {
+    "id": 220,
+    "Question": "Which federal political party is traditionally associated with advocating for workers' rights and social programs?",
+    "Choice A": "Liberal Party",
+    "Choice B": "Conservative Party",
+    "Choice C": "New Democratic Party",
+    "Choice D": "Bloc Québécois",
+    "Correct Answer": "New Democratic Party"
+  },
+  {
+    "id": 221,
+    "Question": "What is the maximum duration of a federal election campaign in Canada?",
+    "Choice A": "50 days",
+    "Choice B": "60 days",
+    "Choice C": "70 days",
+    "Choice D": "80 days",
+    "Correct Answer": "50 days"
+  },
+  {
+    "id": 222,
+    "Question": "Which federal political party is known for its advocacy on fiscal conservatism and lower taxes?",
+    "Choice A": "Liberal Party",
+    "Choice B": "Conservative Party",
+    "Choice C": "Green Party",
+    "Choice D": "Bloc Québécois",
+    "Correct Answer": "Conservative Party"
+  },
+  {
+    "id": 223,
+    "Question": "Which Canadian Prime Minister introduced the current system of fixed-date elections?",
+    "Choice A": "Jean Chrétien",
+    "Choice B": "Stephen Harper",
+    "Choice C": "Justin Trudeau",
+    "Choice D": "Brian Mulroney",
+    "Correct Answer": "Stephen Harper"
+  },
+  {
+    "id": 224,
+    "Question": "Which Canadian province has the largest number of electoral districts (ridings)?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "British Columbia",
+    "Choice D": "Alberta",
+    "Correct Answer": "Ontario"
+  },
+  {
+    "id": 225,
+    "Question": "Who oversees the counting and verification of votes in federal elections in Canada?",
+    "Choice A": "Chief Electoral Officer",
+    "Choice B": "Prime Minister",
+    "Choice C": "Governor General",
+    "Choice D": "Leader of the Opposition",
+    "Correct Answer": "Chief Electoral Officer"
+  },
+  {
+    "id": 226,
+    "Question": "Which federal political party is known for its advocacy on Quebec sovereignty?",
+    "Choice A": "Liberal Party",
+    "Choice B": "Conservative Party",
+    "Choice C": "New Democratic Party",
+    "Choice D": "Bloc Québécois",
+    "Correct Answer": "Bloc Québécois"
+  },
+  {
+    "id": 227,
+    "Question": "How many members are elected to the House of Commons in a federal election?",
+    "Choice A": "100",
+    "Choice B": "200",
+    "Choice C": "250",
+    "Choice D": "338",
+    "Correct Answer": "338"
+  },
+  {
+    "id": 228,
+    "Question": "Which Canadian political party was the first to advocate for universal health care?",
+    "Choice A": "Liberal Party",
+    "Choice B": "Conservative Party",
+    "Choice C": "New Democratic Party",
+    "Choice D": "Progressive Conservative Party",
+    "Correct Answer": "New Democratic Party"
+  },
+  {
+    "id": 229,
+    "Question": "Which federal political party is known for its advocacy on Indigenous rights and reconciliation?",
+    "Choice A": "Liberal Party",
+    "Choice B": "Conservative Party",
+    "Choice C": "New Democratic Party",
+    "Choice D": "Green Party",
+    "Correct Answer": "New Democratic Party"
+  },
+  {
+    "id": 230,
+    "Question": "What is the term length for a member of Parliament (MP) in Canada?",
+    "Choice A": "2 years",
+    "Choice B": "4 years",
+    "Choice C": "6 years",
+    "Choice D": "8 years",
+    "Correct Answer": "4 years"
+  },
+  {
+    "id": 231,
+    "Question": "Voting in federal elections is mandatory for all Canadian citizens.",
+    "Answer": "false"
+  },
+  {
+    "id": 232,
+    "Question": "The party that wins the most seats in the House of Commons forms the government.",
+    "Answer": "true"
+  },
+  {
+    "id": 233,
+    "Question": "Federal elections in Canada are overseen by a non-partisan agency.",
+    "Answer": "true"
+  },
+  {
+    "id": 234,
+    "Question": "Candidates running in federal elections must be nominated by their political party.",
+    "Answer": "false"
+  },
+  {
+    "id": 235,
+    "Question": "Prime Ministers can call early elections at any time during their term.",
+    "Answer": "false"
+  },
+  {
+    "id": 236,
+    "Question": "Advance voting is available in federal elections to accommodate voters who cannot vote on election day.",
+    "Answer": "true"
+  },
+  {
+    "id": 237,
+    "Question": "The Governor General has the authority to dissolve Parliament and call a federal election.",
+    "Answer": "true"
+  },
+  {
+    "id": 238,
+    "Question": "Candidates running in federal elections must live in the riding they wish to represent.",
+    "Answer": "true"
+  },
+  {
+    "id": 239,
+    "Question": "Federal elections in Canada use a proportional representation voting system.",
+    "Answer": "false"
+  },
+  {
+    "id": 240,
+    "Question": "Senators are elected in federal elections along with members of the House of Commons.",
+    "Answer": "false"
+  },
+  {
+    "id": 241,
+    "Question": "What is the highest court in Canada?",
+    "Choice A": "Supreme Court of Canada",
+    "Choice B": "Federal Court of Canada",
+    "Choice C": "Court of Appeal for Ontario",
+    "Choice D": "Provincial Court of British Columbia",
+    "Correct Answer": "Supreme Court of Canada"
+  },
+  {
+    "id": 242,
+    "Question": "Who appoints judges to the Supreme Court of Canada?",
+    "Choice A": "Prime Minister",
+    "Choice B": "Governor General",
+    "Choice C": "Minister of Justice",
+    "Choice D": "Chief Justice of Canada",
+    "Correct Answer": "Prime Minister"
+  },
+  {
+    "id": 243,
+    "Question": "What is the principle that everyone is equal under the law called?",
+    "Choice A": "Equality before the Law",
+    "Choice B": "Equity in Justice",
+    "Choice C": "Fair Trial Principle",
+    "Choice D": "Justice for All Act",
+    "Correct Answer": "Equality before the Law"
+  },
+  {
+    "id": 244,
+    "Question": "Which of the following is not a level of court in Canada?",
+    "Choice A": "Provincial Court",
+    "Choice B": "Superior Court",
+    "Choice C": "Municipal Court",
+    "Choice D": "Federal Court",
+    "Correct Answer": "Municipal Court"
+  },
+  {
+    "id": 245,
+    "Question": "Who is responsible for prosecuting criminal cases in court?",
+    "Choice A": "Defendant",
+    "Choice B": "Plaintiff",
+    "Choice C": "Crown Prosecutor",
+    "Choice D": "Justice Advocate",
+    "Correct Answer": "Crown Prosecutor"
+  },
+  {
+    "id": 246,
+    "Question": "What is the legal principle that a person cannot be tried twice for the same offence called?",
+    "Choice A": "Double Jeopardy",
+    "Choice B": "Legal Reprieve",
+    "Choice C": "Concurrent Jurisdiction",
+    "Choice D": "Trial Consistency",
+    "Correct Answer": "Double Jeopardy"
+  },
+  {
+    "id": 247,
+    "Question": "What type of law deals with disputes between individuals or organizations?",
+    "Choice A": "Criminal Law",
+    "Choice B": "Civil Law",
+    "Choice C": "Constitutional Law",
+    "Choice D": "Administrative Law",
+    "Correct Answer": "Civil Law"
+  },
+  {
+    "id": 248,
+    "Question": "Which of the following is not a right protected by the Canadian Charter of Rights and Freedoms?",
+    "Choice A": "Freedom of Speech",
+    "Choice B": "Right to Vote",
+    "Choice C": "Right to Bear Arms",
+    "Choice D": "Freedom of Religion",
+    "Correct Answer": "Right to Bear Arms"
+  },
+  {
+    "id": 249,
+    "Question": "In a criminal trial, what is the standard of proof required to convict the accused?",
+    "Choice A": "Clear and Convincing Evidence",
+    "Choice B": "Beyond a Reasonable Doubt",
+    "Choice C": "Preponderance of Evidence",
+    "Choice D": "Probable Cause",
+    "Correct Answer": "Beyond a Reasonable Doubt"
+  },
+  {
+    "id": 250,
+    "Question": "What is the process of resolving legal disputes outside of court through a neutral third party called?",
+    "Choice A": "Arbitration",
+    "Choice B": "Mediation",
+    "Choice C": "Litigation",
+    "Choice D": "Adjudication",
+    "Correct Answer": "Mediation"
+  },
+  {
+    "id": 251,
+    "Question": "Which level of court is the court of last resort for most legal disputes?",
+    "Choice A": "Provincial Court",
+    "Choice B": "Superior Court",
+    "Choice C": "Court of Appeal",
+    "Choice D": "Supreme Court",
+    "Correct Answer": "Court of Appeal"
+  },
+  {
+    "id": 252,
+    "Question": "Who is responsible for enforcing court orders and ensuring the safety of courthouses in Canada?",
+    "Choice A": "Royal Canadian Mounted Police",
+    "Choice B": "Provincial Police",
+    "Choice C": "Court Security Officers",
+    "Choice D": "Sheriffs",
+    "Correct Answer": "Sheriffs"
+  },
+  {
+    "id": 253,
+    "Question": "What is the legal principle that government actions must follow established laws and procedures called?",
+    "Choice A": "Rule of Law",
+    "Choice B": "Government Accountability",
+    "Choice C": "Legal Transparency",
+    "Choice D": "Judicial Oversight",
+    "Correct Answer": "Rule of Law"
+  },
+  {
+    "id": 254,
+    "Question": "Which court hears cases involving disputes between provinces or between the federal government and provinces?",
+    "Choice A": "Supreme Court of Canada",
+    "Choice B": "Federal Court of Appeal",
+    "Choice C": "Provincial Superior Court",
+    "Choice D": "Constitutional Court",
+    "Correct Answer": "Supreme Court of Canada"
+  },
+  {
+    "id": 255,
+    "Question": "What is the legal process of bringing a lawsuit against another party called?",
+    "Choice A": "Subpoena",
+    "Choice B": "Indictment",
+    "Choice C": "Litigation",
+    "Choice D": "Summon",
+    "Correct Answer": "Litigation"
+  },
+  {
+    "id": 256,
+    "Question": "Who represents the interests of the accused in a criminal trial?",
+    "Choice A": "Defendant",
+    "Choice B": "Plaintiff",
+    "Choice C": "Counsel",
+    "Choice D": "Barrister",
+    "Correct Answer": "Counsel"
+  },
+  {
+    "id": 257,
+    "Question": "What legal document is issued by a judge to bring a person to court?",
+    "Choice A": "Warrant",
+    "Choice B": "Subpoena",
+    "Choice C": "Summons",
+    "Choice D": "Indictment",
+    "Correct Answer": "Summons"
+  },
+  {
+    "id": 258,
+    "Question": "Which court handles appeals from decisions made by federal tribunals in Canada?",
+    "Choice A": "Federal Court of Appeal",
+    "Choice B": "Supreme Court of Canada",
+    "Choice C": "Provincial Superior Court",
+    "Choice D": "Court of Appeal",
+    "Correct Answer": "Federal Court of Appeal"
+  },
+  {
+    "id": 259,
+    "Question": "What is the legal doctrine that prevents someone from being punished for an offence committed before a law against it was passed called?",
+    "Choice A": "Statutory Limitation",
+    "Choice B": "Ex Post Facto",
+    "Choice C": "Retrospective Justice",
+    "Choice D": "Legal Amnesty",
+    "Correct Answer": "Ex Post Facto"
+  },
+  {
+    "id": 260,
+    "Question": "Who is responsible for interpreting and applying laws in court cases?",
+    "Choice A": "Judge",
+    "Choice B": "Jury",
+    "Choice C": "Prosecutor",
+    "Choice D": "Defence Attorney",
+    "Correct Answer": "Judge"
+  },
+  {
+    "id": 261,
+    "Question": "In Canada, the judiciary is completely independent of the legislative and executive branches of government.",
+    "Answer": "true"
+  },
+  {
+    "id": 262,
+    "Question": "Judges in Canada are appointed for life or until they reach the age of retirement.",
+    "Answer": "true"
+  },
+  {
+    "id": 263,
+    "Question": "The Canadian legal system is based on common law principles.",
+    "Answer": "true"
+  },
+  {
+    "id": 264,
+    "Question": "Provincial courts in Canada have jurisdiction over both criminal and civil matters.",
+    "Answer": "true"
+  },
+  {
+    "id": 265,
+    "Question": "The Canadian Charter of Rights and Freedoms guarantees the right to a fair trial.",
+    "Answer": "true"
+  },
+  {
+    "id": 266,
+    "Question": "A defendant in a criminal trial has the right to remain silent and not testify against themselves.",
+    "Answer": "true"
+  },
+  {
+    "id": 267,
+    "Question": "Canada does not have a system of capital punishment (death penalty).",
+    "Answer": "true"
+  },
+  {
+    "id": 268,
+    "Question": "In civil cases, the burden of proof is generally on the plaintiff to prove their case.",
+    "Answer": "true"
+  },
+  {
+    "id": 269,
+    "Question": "Judges in Canada are required to give reasons for their decisions in court cases.",
+    "Answer": "true"
+  },
+  {
+    "id": 270,
+    "Question": "Appeals courts in Canada have the authority to overturn lower court decisions.",
+    "Answer": "true"
+  },
+  {
+    "id": 271,
+    "Question": "What is the national animal of Canada?",
+    "Choice A": "Beaver",
+    "Choice B": "Moose",
+    "Choice C": "Polar Bear",
+    "Choice D": "Caribou",
+    "Correct Answer": "Beaver"
+  },
+  {
+    "id": 272,
+    "Question": "Which flower is a national symbol of Canada?",
+    "Choice A": "Daisy",
+    "Choice B": "Tulip",
+    "Choice C": "Maple Leaf",
+    "Choice D": "Trillium",
+    "Correct Answer": "Trillium"
+  },
+  {
+    "id": 273,
+    "Question": "What is the national winter sport of Canada?",
+    "Choice A": "Ice Hockey",
+    "Choice B": "Curling",
+    "Choice C": "Skiing",
+    "Choice D": "Snowboarding",
+    "Correct Answer": "Ice Hockey"
+  },
+  {
+    "id": 274,
+    "Question": "Which bird is a national symbol of Canada?",
+    "Choice A": "Robin",
+    "Choice B": "Blue Jay",
+    "Choice C": "Loon",
+    "Choice D": "Eagle",
+    "Correct Answer": "Loon"
+  },
+  {
+    "id": 275,
+    "Question": "What is the national tree of Canada?",
+    "Choice A": "Maple",
+    "Choice B": "Oak",
+    "Choice C": "Pine",
+    "Choice D": "Birch",
+    "Correct Answer": "Maple"
+  },
+  {
+    "id": 276,
+    "Question": "Which coin features a maple leaf as its symbol?",
+    "Choice A": "Penny",
+    "Choice B": "Nickel",
+    "Choice C": "Dime",
+    "Choice D": "Quarter",
+    "Correct Answer": "Quarter"
+  },
+  {
+    "id": 277,
+    "Question": "What is the national dish of Canada?",
+    "Choice A": "Poutine",
+    "Choice B": "Maple Syrup",
+    "Choice C": "Nanaimo Bar",
+    "Choice D": "Butter Tart",
+    "Correct Answer": "Poutine"
+  },
+  {
+    "id": 278,
+    "Question": "Which animal is a symbol of Canada's Arctic region?",
+    "Choice A": "Polar Bear",
+    "Choice B": "Walrus",
+    "Choice C": "Arctic Fox",
+    "Choice D": "Seal",
+    "Correct Answer": "Polar Bear"
+  },
+  {
+    "id": 279,
+    "Question": "What is the national sport of Canada?",
+    "Choice A": "Lacrosse",
+    "Choice B": "Ice Hockey",
+    "Choice C": "Football",
+    "Choice D": "Baseball",
+    "Correct Answer": "Ice Hockey"
+  },
+  {
+    "id": 280,
+    "Question": "Which animal is featured on the Canadian five-dollar bill?",
+    "Choice A": "Beaver",
+    "Choice B": "Polar Bear",
+    "Choice C": "Loon",
+    "Choice D": "Moose",
+    "Correct Answer": "Moose"
+  },
+  {
+    "id": 281,
+    "Question": "What is the national motto of Canada?",
+    "Choice A": "Peace, Order, and Good Government",
+    "Choice B": "From Sea to Sea",
+    "Choice C": "Strong and Free",
+    "Choice D": "God Save the Queen",
+    "Correct Answer": "A Mari Usque Ad Mare"
+  },
+  {
+    "id": 282,
+    "Question": "Which Canadian animal is known for building dams?",
+    "Choice A": "Beaver",
+    "Choice B": "Moose",
+    "Choice C": "Bear",
+    "Choice D": "Wolf",
+    "Correct Answer": "Beaver"
+  },
+  {
+    "id": 283,
+    "Question": "What is the national holiday of Canada?",
+    "Choice A": "Canada Day",
+    "Choice B": "Victoria Day",
+    "Choice C": "Remembrance Day",
+    "Choice D": "Thanksgiving Day",
+    "Correct Answer": "Canada Day"
+  },
+  {
+    "id": 284,
+    "Question": "Which Canadian animal is known for its large antlers?",
+    "Choice A": "Moose",
+    "Choice B": "Caribou",
+    "Choice C": "Deer",
+    "Choice D": "Elk",
+    "Correct Answer": "Caribou"
+  },
+  {
+    "id": 285,
+    "Question": "What is the national game of Canada?",
+    "Choice A": "Ice Hockey",
+    "Choice B": "Curling",
+    "Choice C": "Lacrosse",
+    "Choice D": "Football",
+    "Correct Answer": "Lacrosse"
+  },
+  {
+    "id": 286,
+    "Question": "Which province is known as the \"Land of the Maple\"?",
+    "Choice A": "Quebec",
+    "Choice B": "Ontario",
+    "Choice C": "British Columbia",
+    "Choice D": "Alberta",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 287,
+    "Question": "What is the national bird of Canada?",
+    "Choice A": "Blue Jay",
+    "Choice B": "Loon",
+    "Choice C": "Cardinal",
+    "Choice D": "Robin",
+    "Correct Answer": "Common Loon"
+  },
+  {
+    "id": 288,
+    "Question": "Which province is known as the \"Garden of Canada\"?",
+    "Choice A": "Alberta",
+    "Choice B": "British Columbia",
+    "Choice C": "Ontario",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 289,
+    "Question": "What is the national tree of Canada?",
+    "Choice A": "Maple",
+    "Choice B": "Oak",
+    "Choice C": "Birch",
+    "Choice D": "Pine",
+    "Correct Answer": "Maple"
+  },
+  {
+    "id": 290,
+    "Question": "Which animal is associated with the Canadian nickel coin?",
+    "Choice A": "Beaver",
+    "Choice B": "Moose",
+    "Choice C": "Caribou",
+    "Choice D": "Polar Bear",
+    "Correct Answer": "Beaver"
+  },
+  {
+    "id": 291,
+    "Question": "What is the national stone of Canada?",
+    "Choice A": "Diamond",
+    "Choice B": "Emerald",
+    "Choice C": "Ruby",
+    "Choice D": "Amethyst",
+    "Correct Answer": "Amethyst"
+  },
+  {
+    "id": 292,
+    "Question": "Which Canadian animal is known for its ability to climb trees?",
+    "Choice A": "Moose",
+    "Choice B": "Bear",
+    "Choice C": "Raccoon",
+    "Choice D": "Beaver",
+    "Correct Answer": "Raccoon"
+  },
+  {
+    "id": 293,
+    "Question": "What is the national flag of Canada called?",
+    "Choice A": "Union Jack",
+    "Choice B": "Red Ensign",
+    "Choice C": "Maple Leaf",
+    "Choice D": "Fleur-de-lis",
+    "Correct Answer": "Maple Leaf"
+  },
+  {
+    "id": 294,
+    "Question": "Which Canadian animal is known for its sharp, curved horns?",
+    "Choice A": "Bison",
+    "Choice B": "Moose",
+    "Choice C": "Mountain Goat",
+    "Choice D": "Big Horn Sheep",
+    "Correct Answer": "Big Horn Sheep"
+  },
+  {
+    "id": 295,
+    "Question": "What is the national marine mammal of Canada?",
+    "Choice A": "Seal",
+    "Choice B": "Beluga Whale",
+    "Choice C": "Walrus",
+    "Choice D": "Polar Bear",
+    "Correct Answer": "Beluga Whale"
+  },
+  {
+    "id": 296,
+    "Question": "Which Canadian animal is known for its black and white fur?",
+    "Choice A": "Panda",
+    "Choice B": "Penguin",
+    "Choice C": "Skunk",
+    "Choice D": "Polar Bear",
+    "Correct Answer": "Skunk"
+  },
+  {
+    "id": 297,
+    "Question": "What is the national insect of Canada?",
+    "Choice A": "Butterfly",
+    "Choice B": "Ladybug",
+    "Choice C": "Monarch",
+    "Choice D": "Beetle",
+    "Correct Answer": "Monarch Butterfly"
+  },
+  {
+    "id": 298,
+    "Question": "Which Canadian animal is known for its ability to change fur color in winter?",
+    "Choice A": "Lynx",
+    "Choice B": "Arctic Fox",
+    "Choice C": "Ermine",
+    "Choice D": "Wolverine",
+    "Correct Answer": "Arctic Fox"
+  },
+  {
+    "id": 299,
+    "Question": "What is the national berry of Canada?",
+    "Choice A": "Blueberry",
+    "Choice B": "Strawberry",
+    "Choice C": "Raspberry",
+    "Choice D": "Blackberry",
+    "Correct Answer": "Blueberry"
+  },
+  {
+    "id": 300,
+    "Question": "Which Canadian animal is known for its large, fluffy tail?",
+    "Choice A": "Raccoon",
+    "Choice B": "Squirrel",
+    "Choice C": "Beaver",
+    "Choice D": "Skunk",
+    "Correct Answer": "Squirrel"
+  },
+  {
+    "id": 301,
+    "Question": "Canada has a national fruit, the apple.",
+    "Answer": "false"
+  },
+  {
+    "id": 302,
+    "Question": "The national flag of Canada features a maple leaf.",
+    "Answer": "true"
+  },
+  {
+    "id": 303,
+    "Question": "The Canadian Rockies are a UNESCO World Heritage site.",
+    "Answer": "true"
+  },
+  {
+    "id": 304,
+    "Question": "The polar bear is a symbol of Canada's Arctic.",
+    "Answer": "true"
+  },
+  {
+    "id": 305,
+    "Question": "The beaver is both a national symbol and the official animal of Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 306,
+    "Question": "The Canadian loonie coin features a loon on one side.",
+    "Answer": "true"
+  },
+  {
+    "id": 307,
+    "Question": "Canada has a national emblem, the maple leaf.",
+    "Answer": "true"
+  },
+  {
+    "id": 308,
+    "Question": "The Canadian moose is known for its large antlers.",
+    "Answer": "true"
+  },
+  {
+    "id": 309,
+    "Question": "The Rocky Mountains are located primarily in the eastern part of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 310,
+    "Question": "Canada is known for its vast forests and wilderness areas.",
+    "Answer": "true"
+  },
+
+  {
+    "id": 311,
+    "Question": "Which industry is a major contributor to Canada's economy?",
+    "Choice A": "Automotive",
+    "Choice B": "Technology",
+    "Choice C": "Agriculture",
+    "Choice D": "Tourism",
+    "Correct Answer": "Agriculture"
+  },
+  {
+    "id": 312,
+    "Question": "What is the largest export category for Canada?",
+    "Choice A": "Energy Products",
+    "Choice B": "Machinery and Equipment",
+    "Choice C": "Vehicles and Parts",
+    "Choice D": "Forestry Products",
+    "Correct Answer": "Energy Products"
+  },
+  {
+    "id": 313,
+    "Question": "Which Canadian province is known for its oil and gas industry?",
+    "Choice A": "British Columbia",
+    "Choice B": "Ontario",
+    "Choice C": "Alberta",
+    "Choice D": "Quebec",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 314,
+    "Question": "What is Canada's national currency?",
+    "Choice A": "Peso",
+    "Choice B": "Euro",
+    "Choice C": "Dollar",
+    "Choice D": "Yen",
+    "Correct Answer": "Dollar"
+  },
+  {
+    "id": 315,
+    "Question": "Which Canadian city is a major financial center?",
+    "Choice A": "Montreal",
+    "Choice B": "Toronto",
+    "Choice C": "Vancouver",
+    "Choice D": "Calgary",
+    "Correct Answer": "Toronto"
+  },
+  {
+    "id": 316,
+    "Question": "What is the leading industry in the province of Quebec?",
+    "Choice A": "Mining",
+    "Choice B": "Forestry",
+    "Choice C": "Technology",
+    "Choice D": "Manufacturing",
+    "Correct Answer": "Manufacturing"
+  },
+  {
+    "id": 317,
+    "Question": "Which province is known for its hydroelectric power production?",
+    "Choice A": "British Columbia",
+    "Choice B": "Ontario",
+    "Choice C": "Quebec",
+    "Choice D": "Saskatchewan",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 318,
+    "Question": "What is Canada's largest trading partner?",
+    "Choice A": "United States",
+    "Choice B": "China",
+    "Choice C": "United Kingdom",
+    "Choice D": "Germany",
+    "Correct Answer": "United States"
+  },
+  {
+    "id": 319,
+    "Question": "Which province is known for its fishing industry?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "Manitoba",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Yukon",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 320,
+    "Question": "What is the unemployment rate in Canada?",
+    "Choice A": "3%",
+    "Choice B": "5%",
+    "Choice C": "7%",
+    "Choice D": "10%",
+    "Correct Answer": "5%"
+  },
+  {
+    "id": 321,
+    "Question": "Which province is known for its diamond mining industry?",
+    "Choice A": "Saskatchewan",
+    "Choice B": "Alberta",
+    "Choice C": "Northwest Territories",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "Northwest Territories"
+  },
+  {
+    "id": 322,
+    "Question": "What is the main agricultural product of the Canadian Prairie provinces?",
+    "Choice A": "Wheat",
+    "Choice B": "Corn",
+    "Choice C": "Rice",
+    "Choice D": "Barley",
+    "Correct Answer": "Wheat"
+  },
+  {
+    "id": 323,
+    "Question": "Which sector contributes the most to Canada's GDP?",
+    "Choice A": "Services",
+    "Choice B": "Manufacturing",
+    "Choice C": "Mining",
+    "Choice D": "Construction",
+    "Correct Answer": "Services"
+  },
+  {
+    "id": 324,
+    "Question": "What is Canada's main agricultural export?",
+    "Choice A": "Beef",
+    "Choice B": "Wheat",
+    "Choice C": "Canola",
+    "Choice D": "Potatoes",
+    "Correct Answer": "Canola"
+  },
+  {
+    "id": 325,
+    "Question": "Which industry is a major employer in Atlantic Canada?",
+    "Choice A": "Fishing",
+    "Choice B": "Technology",
+    "Choice C": "Forestry",
+    "Choice D": "Automotive",
+    "Correct Answer": "Fishing"
+  },
+  {
+    "id": 326,
+    "Question": "What is the term for the total value of goods and services produced in Canada?",
+    "Choice A": "Gross National Product",
+    "Choice B": "Gross Domestic Product",
+    "Choice C": "Net National Product",
+    "Choice D": "Net Domestic Product",
+    "Correct Answer": "Gross Domestic Product"
+  },
+  {
+    "id": 327,
+    "Question": "Which province is known for its aerospace industry?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "Alberta",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 328,
+    "Question": "What is the term for the difference between a country's exports and imports?",
+    "Choice A": "Trade Balance",
+    "Choice B": "Trade Deficit",
+    "Choice C": "Trade Surplus",
+    "Choice D": "Current Account",
+    "Correct Answer": "Trade Balance"
+  },
+  {
+    "id": 329,
+    "Question": "Which industry is a major contributor to the economy of the Canadian Maritimes?",
+    "Choice A": "Fishing",
+    "Choice B": "Mining",
+    "Choice C": "Forestry",
+    "Choice D": "Technology",
+    "Correct Answer": "Fishing"
+  },
+  {
+    "id": 330,
+    "Question": "What is the main source of revenue for the government of Canada?",
+    "Choice A": "Income Tax",
+    "Choice B": "Sales Tax",
+    "Choice C": "Property Tax",
+    "Choice D": "Corporate Tax",
+    "Correct Answer": "Income Tax"
+  },
+
+  {
+    "id": 331,
+    "Question": "Canada is a member of the G7 group of major industrialized countries.",
+    "Answer": "true"
+  },
+  {
+    "id": 332,
+    "Question": "The Canadian dollar is the official currency used in all provinces and territories.",
+    "Answer": "true"
+  },
+  {
+    "id": 333,
+    "Question": "Canada is one of the world's top producers of uranium.",
+    "Answer": "true"
+  },
+  {
+    "id": 334,
+    "Question": "The Toronto Stock Exchange is the largest stock exchange in Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 335,
+    "Question": "The Bank of Canada is responsible for monetary policy in Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 336,
+    "Question": "Canada has a mixed economy with elements of both capitalism and socialism.",
+    "Answer": "true"
+  },
+  {
+    "id": 337,
+    "Question": "Canada is known for its strong banking sector and stable financial system.",
+    "Answer": "true"
+  },
+  {
+    "id": 338,
+    "Question": "The Canadian government owns and operates all major industries in the country.",
+    "Answer": "false"
+  },
+  {
+    "id": 339,
+    "Question": "Canada is a major producer of maple syrup, exporting it to many countries.",
+    "Answer": "true"
+  },
+  {
+    "id": 340,
+    "Question": "Canada has a higher average income per capita than the United States.",
+    "Answer": "false"
+  },
+  {
+    "id": 341,
+    "Question": "Which province is known for its vibrant French culture?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "Alberta",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 342,
+    "Question": "Which province is famous for its rocky mountains and national parks?",
+    "Choice A": "Saskatchewan",
+    "Choice B": "Nova Scotia",
+    "Choice C": "Alberta",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 343,
+    "Question": "Which province is known for its beautiful coastline and fishing industry?",
+    "Choice A": "New Brunswick",
+    "Choice B": "Prince Edward Island",
+    "Choice C": "Nova Scotia",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 344,
+    "Question": "Which territory is known for its vast wilderness and northern lights?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Yukon"
+  },
+  {
+    "id": 345,
+    "Question": "Which province is known for its Prairie landscapes and agricultural industry?",
+    "Choice A": "Manitoba",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Ontario",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Saskatchewan"
+  },
+  {
+    "id": 346,
+    "Question": "Which province is known for its rich Indigenous heritage and totem poles?",
+    "Choice A": "British Columbia",
+    "Choice B": "Alberta",
+    "Choice C": "Saskatchewan",
+    "Choice D": "Ontario",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 347,
+    "Question": "Which territory is known for its Inuit culture and Arctic landscapes?",
+    "Choice A": "Yukon",
+    "Choice B": "Northwest Territories",
+    "Choice C": "Nunavut",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Nunavut"
+  },
+  {
+    "id": 348,
+    "Question": "Which province is known for its natural beauty and national parks?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "New Brunswick",
+    "Choice D": "British Columbia",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 349,
+    "Question": "Which province is known for its unique blend of Indigenous and French cultures?",
+    "Choice A": "Newfoundland and Labrador",
+    "Choice B": "Quebec",
+    "Choice C": "Manitoba",
+    "Choice D": "Ontario",
+    "Correct Answer": "Manitoba"
+  },
+  {
+    "id": 350,
+    "Question": "Which territory is known for its vast tundra and wildlife?",
+    "Choice A": "Yukon",
+    "Choice B": "Northwest Territories",
+    "Choice C": "Nunavut",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Northwest Territories"
+  },
+  {
+    "id": 351,
+    "Question": "Which province is known for its vibrant Acadian culture and seafood industry?",
+    "Choice A": "New Brunswick",
+    "Choice B": "Nova Scotia",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "New Brunswick"
+  },
+  {
+    "id": 352,
+    "Question": "Which province is known for its vast forests and outdoor recreation?",
+    "Choice A": "Ontario",
+    "Choice B": "British Columbia",
+    "Choice C": "Alberta",
+    "Choice D": "Saskatchewan",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 353,
+    "Question": "Which province is known for its diverse cultural mosaic and urban centers?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "Alberta",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Ontario"
+  },
+  {
+    "id": 354,
+    "Question": "Which territory is known for its large caribou herds and northern lights?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Northwest Territories"
+  },
+  {
+    "id": 355,
+    "Question": "Which province is known for its bilingual culture and vibrant arts scene?",
+    "Choice A": "Quebec",
+    "Choice B": "Ontario",
+    "Choice C": "New Brunswick",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 356,
+    "Question": "Which province is known for its ancient fossils and dinosaur discoveries?",
+    "Choice A": "Alberta",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Manitoba",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 357,
+    "Question": "Which territory is known for its vast Arctic wilderness and midnight sun?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Nunavut"
+  },
+  {
+    "id": 358,
+    "Question": "Which province is known for its multiculturalism and film industry?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "British Columbia",
+    "Choice D": "Alberta",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 359,
+    "Question": "Which territory is known for its vast ice fields and polar bear habitats?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Nunavut"
+  },
+  {
+    "id": 360,
+    "Question": "Which province is known for its diverse landscape and Indigenous heritage?",
+    "Choice A": "British Columbia",
+    "Choice B": "Alberta",
+    "Choice C": "Manitoba",
+    "Choice D": "Ontario",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 361,
+    "Question": "Which province is known for its vibrant music scene and Celtic heritage?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "New Brunswick",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 362,
+    "Question": "Which territory is known for its remote Arctic communities and dog sledding?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Northwest Territories"
+  },
+  {
+    "id": 363,
+    "Question": "Which province is known for its farming communities and Prairie landscapes?",
+    "Choice A": "Manitoba",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Alberta",
+    "Choice D": "Ontario",
+    "Correct Answer": "Saskatchewan"
+  },
+  {
+    "id": 364,
+    "Question": "Which province is known for its vibrant First Nations culture and Pacific coastline?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "British Columbia",
+    "Choice D": "Alberta",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 365,
+    "Question": "Which territory is known for its vast lakes and boreal forest?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Northwest Territories"
+  },
+  {
+    "id": 366,
+    "Question": "Which province is known for its vibrant arts community and saltwater marshes?",
+    "Choice A": "Newfoundland and Labrador",
+    "Choice B": "Quebec",
+    "Choice C": "Nova Scotia",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 367,
+    "Question": "Which province is known for its French-speaking Acadian culture and bay of Fundy tides?",
+    "Choice A": "New Brunswick",
+    "Choice B": "Nova Scotia",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "New Brunswick"
+  },
+  {
+    "id": 368,
+    "Question": "Which territory is known for its vast taiga forests and midnight sun?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Northwest Territories"
+  },
+  {
+    "id": 369,
+    "Question": "Which province is known for its wine production and Okanagan Valley?",
+    "Choice A": "British Columbia",
+    "Choice B": "Alberta",
+    "Choice C": "Saskatchewan",
+    "Choice D": "Manitoba",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 370,
+    "Question": "Which province is known for its oil sands and Fort McMurray?",
+    "Choice A": "Alberta",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Manitoba",
+    "Choice D": "Ontario",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 371,
+    "Question": "Canada has a province where both English and French are official languages.",
+    "Answer": "true"
+  },
+  {
+    "id": 372,
+    "Question": "The Northwest Territories is home to the largest lake entirely within Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 373,
+    "Question": "Nunavut is the newest territory in Canada, established in 1999.",
+    "Answer": "true"
+  },
+  {
+    "id": 374,
+    "Question": "Prince Edward Island is the smallest province in Canada by land area.",
+    "Answer": "true"
+  },
+  {
+    "id": 375,
+    "Question": "Yukon is known for its Klondike Gold Rush history and gold mining heritage.",
+    "Answer": "true"
+  },
+  {
+    "id": 376,
+    "Question": "Nova Scotia is known for its Gaelic culture and maritime history.",
+    "Answer": "true"
+  },
+  {
+    "id": 377,
+    "Question": "Saskatchewan is a landlocked province located in the western part of Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 378,
+    "Question": "Newfoundland and Labrador is the easternmost province of Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 379,
+    "Question": "Ontario is Canada's most populous province and home to the capital city, Ottawa.",
+    "Answer": "true"
+  },
+  {
+    "id": 380,
+    "Question": "Quebec is the only province in Canada with a predominantly French-speaking population.",
+    "Answer": "true"
+  },
+  {
+    "id": 381,
+    "Question": "Which province is known for its natural beauty and Gros Morne National Park?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "Newfoundland and Labrador",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "New Brunswick",
+    "Correct Answer": "Newfoundland and Labrador"
+  },
+  {
+    "id": 382,
+    "Question": "Which territory is known for its caribou herds and Arctic landscapes?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Northwest Territories"
+  },
+  {
+    "id": 383,
+    "Question": "Which province is known for its francophone culture and St. Lawrence River?",
+    "Choice A": "Quebec",
+    "Choice B": "Ontario",
+    "Choice C": "Manitoba",
+    "Choice D": "Alberta",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 384,
+    "Question": "Which province is known for its Indigenous heritage and Athabasca Falls?",
+    "Choice A": "Alberta",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Manitoba",
+    "Choice D": "Ontario",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 385,
+    "Question": "Which province is known for its bilingual culture and Jacques-Cartier River?",
+    "Choice A": "Quebec",
+    "Choice B": "Ontario",
+    "Choice C": "Manitoba",
+    "Choice D": "Alberta",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 386,
+    "Question": "Which territory is known for its Inuit culture and Dempster Highway?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Yukon"
+  },
+  {
+    "id": 387,
+    "Question": "Which province is known for its shipbuilding industry and Bay of Fundy?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "New Brunswick",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 388,
+    "Question": "Which province is known for its historic sites and Confederation Bridge?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "New Brunswick",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "Prince Edward Island"
+  },
+  {
+    "id": 389,
+    "Question": "Which province is known for its French-speaking culture and Gatineau Park?",
+    "Choice A": "Quebec",
+    "Choice B": "Ontario",
+    "Choice C": "Manitoba",
+    "Choice D": "Alberta",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 390,
+    "Question": "Which province is known for its historic lighthouses and Bay of Fundy tides?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "New Brunswick",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "New Brunswick"
+  },
+  {
+    "id": 391,
+    "Question": "Which territory is known for its wildlife and Tuktut Nogait National Park?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Northwest Territories"
+  },
+  {
+    "id": 392,
+    "Question": "Which province is known for its multiculturalism and Jasper National Park?",
+    "Choice A": "Alberta",
+    "Choice B": "Saskatchewan",
+    "Choice C": "Manitoba",
+    "Choice D": "Ontario",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 393,
+    "Question": "Which province is known for its aerospace industry and Montmorency Falls?",
+    "Choice A": "Quebec",
+    "Choice B": "Ontario",
+    "Choice C": "Manitoba",
+    "Choice D": "Alberta",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 394,
+    "Question": "Which province is known for its gold rush history and Dawson City?",
+    "Choice A": "British Columbia",
+    "Choice B": "Alberta",
+    "Choice C": "Yukon",
+    "Choice D": "Nunavut",
+    "Correct Answer": "Yukon"
+  },
+  {
+    "id": 395,
+    "Question": "Which province is known for its maple syrup production and Rideau Canal?",
+    "Choice A": "Quebec",
+    "Choice B": "Ontario",
+    "Choice C": "Manitoba",
+    "Choice D": "Alberta",
+    "Correct Answer": "Ontario"
+  },
+  {
+    "id": 396,
+    "Question": "Which province is known for its mining industry and Sudbury Basin?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "Manitoba",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Ontario"
+  },
+  {
+    "id": 397,
+    "Question": "Which province is known for its fjords and Haida Gwaii?",
+    "Choice A": "British Columbia",
+    "Choice B": "Alberta",
+    "Choice C": "Saskatchewan",
+    "Choice D": "Manitoba",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 398,
+    "Question": "Which province is known for its cultural festivals and Peggy's Cove?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "New Brunswick",
+    "Choice C": "Prince Edward Island",
+    "Choice D": "Newfoundland and Labrador",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 399,
+    "Question": "Which province is known for its high-tech industry and Waterloo Region?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "British Columbia",
+    "Choice D": "Alberta",
+    "Correct Answer": "Ontario"
+  },
+  {
+    "id": 400,
+    "Question": "Which territory is known for its aurora borealis and Dempster Highway?",
+    "Choice A": "Yukon",
+    "Choice B": "Nunavut",
+    "Choice C": "Northwest Territories",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "Yukon"
+  },
+  {
+    "id": 401,
+    "Question": "What is the process called when a person voluntarily gives up their Canadian citizenship?",
+    "Choice A": "Naturalization",
+    "Choice B": "Renunciation",
+    "Choice C": "Incorporation",
+    "Choice D": "Assimilation",
+    "Correct Answer": "Renunciation"
+  },
+  {
+    "id": 402,
+    "Question": "Which of the following is a responsibility of Canadian citizens?",
+    "Choice A": "Paying taxes",
+    "Choice B": "Voting in provincial elections only",
+    "Choice C": "Serving in the military",
+    "Choice D": "Serving on a jury",
+    "Correct Answer": "Paying taxes"
+  },
+  {
+    "id": 403,
+    "Question": "What does the Canadian Charter of Rights and Freedoms guarantee to everyone in Canada?",
+    "Choice A": "The right to free public transportation",
+    "Choice B": "The right to strike",
+    "Choice C": "The right to work",
+    "Choice D": "The right to equality",
+    "Correct Answer": "The right to equality"
+  },
+  {
+    "id": 404,
+    "Question": "Who has the authority to make decisions about citizenship applications?",
+    "Choice A": "The Prime Minister",
+    "Choice B": "The Governor General",
+    "Choice C": "The Minister of Immigration, Refugees and Citizenship",
+    "Choice D": "The Supreme Court",
+    "Correct Answer": "The Minister of Immigration, Refugees and Citizenship"
+  },
+  {
+    "id": 405,
+    "Question": "What is the official residence of the Canadian monarch in Canada?",
+    "Choice A": "Rideau Hall",
+    "Choice B": "24 Sussex Drive",
+    "Choice C": "The White House",
+    "Choice D": "Buckingham Palace",
+    "Correct Answer": "Rideau Hall"
+  },
+  {
+    "id": 406,
+    "Question": "Which of the following is a right guaranteed by the Canadian Charter of Rights and Freedoms?",
+    "Choice A": "The right to bear arms",
+    "Choice B": "The right to public assembly",
+    "Choice C": "The right to free healthcare",
+    "Choice D": "The right to drive",
+    "Correct Answer": "The right to public assembly"
+  },
+  {
+    "id": 407,
+    "Question": "Which document do new citizens receive as proof of their Canadian citizenship?",
+    "Choice A": "A passport",
+    "Choice B": "A birth certificate",
+    "Choice C": "A social insurance card",
+    "Choice D": "A citizenship certificate",
+    "Correct Answer": "A citizenship certificate"
+  },
+  {
+    "id": 408,
+    "Question": "What is a legal duty that Canadian citizens must follow?",
+    "Choice A": "Learning multiple languages",
+    "Choice B": "Obeying the law",
+    "Choice C": "Participating in sports",
+    "Choice D": "Eating a balanced diet",
+    "Correct Answer": "Obeying the law"
+  },
+  {
+    "id": 409,
+    "Question": "Which level of government is responsible for healthcare in Canada?",
+    "Choice A": "Municipal government",
+    "Choice B": "Provincial and territorial governments",
+    "Choice C": "Federal government",
+    "Choice D": "Regional government",
+    "Correct Answer": "Provincial and territorial governments"
+  },
+  {
+    "id": 410,
+    "Question": "Who is responsible for making and applying laws in Canada?",
+    "Choice A": "The Prime Minister",
+    "Choice B": "The Governor General",
+    "Choice C": "Parliament and provincial legislatures",
+    "Choice D": "The Supreme Court",
+    "Correct Answer": "Parliament and provincial legislatures"
+  },
+  {
+    "id": 411,
+    "Question": "What is one responsibility that Canadian citizens have?",
+    "Choice A": "Donating to charity",
+    "Choice B": "Respecting others' rights",
+    "Choice C": "Volunteering in their community",
+    "Choice D": "Owning property",
+    "Correct Answer": "Respecting others' rights"
+  },
+  {
+    "id": 412,
+    "Question": "What is the highest court in Canada?",
+    "Choice A": "The Federal Court",
+    "Choice B": "The Provincial Court",
+    "Choice C": "The Supreme Court of Canada",
+    "Choice D": "The Court of Appeal",
+    "Correct Answer": "The Supreme Court of Canada"
+  },
+  {
+    "id": 413,
+    "Question": "What are the three branches of government in Canada?",
+    "Choice A": "Executive, legislative, and judicial",
+    "Choice B": "Federal, provincial, and municipal",
+    "Choice C": "Royal, parliamentary, and constitutional",
+    "Choice D": "House of Commons, Senate, and Cabinet",
+    "Correct Answer": "Executive, legislative, and judicial"
+  },
+  {
+    "id": 414,
+    "Question": "Who is the head of state in Canada?",
+    "Choice A": "The Prime Minister",
+    "Choice B": "The Governor General",
+    "Choice C": "The Queen or King",
+    "Choice D": "The Premier",
+    "Correct Answer": "The Queen or King"
+  },
+  {
+    "id": 415,
+    "Question": "Which of the following is a right of Canadian citizens?",
+    "Choice A": "The right to own a business",
+    "Choice B": "The right to own property in any province",
+    "Choice C": "The right to free public transportation",
+    "Choice D": "The right to vote in elections",
+    "Correct Answer": "The right to vote in elections"
+  },
+  {
+    "id": 416,
+    "Question": "What is the name of the political party that currently holds the most seats in the House of Commons?",
+    "Choice A": "Liberal Party of Canada",
+    "Choice B": "Conservative Party of Canada",
+    "Choice C": "New Democratic Party",
+    "Choice D": "Green Party of Canada",
+    "Correct Answer": "Liberal Party of Canada"
+  },
+  {
+    "id": 417,
+    "Question": "Which government official represents the monarch in Canada?",
+    "Choice A": "The Prime Minister",
+    "Choice B": "The Governor General",
+    "Choice C": "The Speaker of the House",
+    "Choice D": "The Chief Justice",
+    "Correct Answer": "The Governor General"
+  },
+  {
+    "id": 418,
+    "Question": "What is the name of the process by which new laws are introduced and passed in Parliament?",
+    "Choice A": "Legislation",
+    "Choice B": "Administration",
+    "Choice C": "Regulation",
+    "Choice D": "Adjudication",
+    "Correct Answer": "Legislation"
+  },
+  {
+    "id": 419,
+    "Question": "Which of the following is a responsibility of the provincial and territorial governments in Canada?",
+    "Choice A": "National defence",
+    "Choice B": "Immigration",
+    "Choice C": "Healthcare",
+    "Choice D": "Postal service",
+    "Correct Answer": "Healthcare"
+  },
+  {
+    "id": 420,
+    "Question": "What is the process called when a Canadian citizen living abroad applies to resume Canadian citizenship?",
+    "Choice A": "Naturalization",
+    "Choice B": "Renunciation",
+    "Choice C": "Resumption",
+    "Choice D": "Restoration",
+    "Correct Answer": "Resumption"
+  },
+  {
+    "id": 421,
+    "Question": "Who was the first Prime Minister of Canada?",
+    "Choice A": "Sir John A. Macdonald",
+    "Choice B": "Sir Wilfrid Laurier",
+    "Choice C": "Sir Robert Borden",
+    "Choice D": "William Lyon Mackenzie King",
+    "Correct Answer": "Sir John A. Macdonald"
+  },
+  {
+    "id": 422,
+    "Question": "When did Canada become a country?",
+    "Choice A": "July 1, 1867",
+    "Choice B": "July 1, 1876",
+    "Choice C": "July 1, 1887",
+    "Choice D": "July 1, 1897",
+    "Correct Answer": "July 1, 1867"
+  },
+  {
+    "id": 423,
+    "Question": "Which European country established the first permanent European settlement in Canada?",
+    "Choice A": "France",
+    "Choice B": "England",
+    "Choice C": "Spain",
+    "Choice D": "Portugal",
+    "Correct Answer": "France"
+  },
+  {
+    "id": 424,
+    "Question": "Who led the expedition that became the first Europeans to set foot in Canada?",
+    "Choice A": "Jacques Cartier",
+    "Choice B": "John Cabot",
+    "Choice C": "Samuel de Champlain",
+    "Choice D": "Martin Frobisher",
+    "Correct Answer": "John Cabot"
+  },
+  {
+    "id": 425,
+    "Question": "What major event in Canadian history occurred in 1759?",
+    "Choice A": "The Battle of Quebec",
+    "Choice B": "The Confederation of Canada",
+    "Choice C": "The completion of the Canadian Pacific Railway",
+    "Choice D": "The signing of the Statute of Westminster",
+    "Correct Answer": "The Battle of Quebec"
+  },
+  {
+    "id": 426,
+    "Question": "Which province joined Confederation most recently, in 1949?",
+    "Choice A": "Newfoundland and Labrador",
+    "Choice B": "Prince Edward Island",
+    "Choice C": "Manitoba",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Newfoundland and Labrador"
+  },
+  {
+    "id": 427,
+    "Question": "Who were the first inhabitants of Canada?",
+    "Choice A": "Vikings",
+    "Choice B": "Inuit",
+    "Choice C": "Cree",
+    "Choice D": "Iroquois",
+    "Correct Answer": "Inuit"
+  },
+  {
+    "id": 428,
+    "Question": "Which treaty marked the beginning of peaceful relations between Indigenous peoples and Europeans in Canada?",
+    "Choice A": "Treaty of Paris (1763)",
+    "Choice B": "Treaty of Utrecht (1713)",
+    "Choice C": "Royal Proclamation of 1763",
+    "Choice D": "Treaty of Niagara (1764)",
+    "Correct Answer": "Royal Proclamation of 1763"
+  },
+  {
+    "id": 429,
+    "Question": "What was the name of the political movement that sought to establish an independent Quebec?",
+    "Choice A": "Quiet Revolution",
+    "Choice B": "Parti Québécois",
+    "Choice C": "Confederation",
+    "Choice D": "Manifest Destiny",
+    "Correct Answer": "Parti Québécois"
+  },
+  {
+    "id": 430,
+    "Question": "What major event in Canadian history occurred in 1812?",
+    "Choice A": "The War of 1812",
+    "Choice B": "The Riel Rebellion",
+    "Choice C": "The Battle of Vimy Ridge",
+    "Choice D": "The Red River Resistance",
+    "Correct Answer": "The War of 1812"
+  },
+  {
+    "id": 431,
+    "Question": "Which Canadian province was the last to abolish slavery in 1834?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "Ontario",
+    "Choice C": "New Brunswick",
+    "Choice D": "Quebec",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 432,
+    "Question": "Who was the Métis leader and founder of Manitoba?",
+    "Choice A": "Louis Riel",
+    "Choice B": "Gabriel Dumont",
+    "Choice C": "Pierre Trudeau",
+    "Choice D": "Louis-Hippolyte Lafontaine",
+    "Correct Answer": "Louis Riel"
+  },
+  {
+    "id": 433,
+    "Question": "Which Canadian province experienced a major gold rush in the late 1800s?",
+    "Choice A": "British Columbia",
+    "Choice B": "Alberta",
+    "Choice C": "Saskatchewan",
+    "Choice D": "Manitoba",
+    "Correct Answer": "British Columbia"
+  },
+  {
+    "id": 434,
+    "Question": "What was the name of the Indigenous leader who led a rebellion against the Canadian government in 1885?",
+    "Choice A": "Big Bear",
+    "Choice B": "Pontiac",
+    "Choice C": "Chief Poundmaker",
+    "Choice D": "Gabriel Dumont",
+    "Correct Answer": "Gabriel Dumont"
+  },
+  {
+    "id": 435,
+    "Question": "Which Prime Minister introduced the Canadian Bill of Rights in 1960?",
+    "Choice A": "John Diefenbaker",
+    "Choice B": "Lester B. Pearson",
+    "Choice C": "Pierre Trudeau",
+    "Choice D": "Brian Mulroney",
+    "Correct Answer": "John Diefenbaker"
+  },
+  {
+    "id": 436,
+    "Question": "What major event in Canadian history occurred in 1917?",
+    "Choice A": "The Battle of Vimy Ridge",
+    "Choice B": "The Halifax Explosion",
+    "Choice C": "The Winnipeg General Strike",
+    "Choice D": "The Statute of Westminster",
+    "Correct Answer": "The Halifax Explosion"
+  },
+  {
+    "id": 437,
+    "Question": "Who was the first female Prime Minister of Canada?",
+    "Choice A": "Kim Campbell",
+    "Choice B": "Rona Ambrose",
+    "Choice C": "Adrienne Clarkson",
+    "Choice D": "Chrystia Freeland",
+    "Correct Answer": "Kim Campbell"
+  },
+  {
+    "id": 438,
+    "Question": "Which Canadian province was the last to join Confederation in 1949?",
+    "Choice A": "Newfoundland and Labrador",
+    "Choice B": "Prince Edward Island",
+    "Choice C": "Manitoba",
+    "Choice D": "British Columbia",
+    "Correct Answer": "Newfoundland and Labrador"
+  },
+  {
+    "id": 439,
+    "Question": "Which treaty formally ended the French and Indian War in 1763?",
+    "Choice A": "Treaty of Versailles",
+    "Choice B": "Treaty of Paris",
+    "Choice C": "Treaty of Utrecht",
+    "Choice D": "Treaty of Niagara",
+    "Correct Answer": "Treaty of Paris"
+  },
+  {
+    "id": 440,
+    "Question": "Which explorer established the first French settlement in Canada in 1608?",
+    "Choice A": "Jacques Cartier",
+    "Choice B": "Samuel de Champlain",
+    "Choice C": "Louis Jolliet",
+    "Choice D": "René-Robert Cavelier, Sieur de La Salle",
+    "Correct Answer": "Samuel de Champlain"
+  },
+
+  {
+    "id": 441,
+    "Question": "Every Canadian citizen has the right to enter, remain in, and leave Canada.",
+    "Answer": "true"
+  },
+  {
+    "id": 442,
+    "Question": "Canadian citizens have the right to apply for a Canadian passport.",
+    "Answer": "true"
+  },
+  {
+    "id": 443,
+    "Question": "Canadian citizens are required to vote in federal elections.",
+    "Answer": "false"
+  },
+  {
+    "id": 444,
+    "Question": "All Canadians have the right to a trial in French or English.",
+    "Answer": "true"
+  },
+  {
+    "id": 445,
+    "Question": "Canadian citizens must obey the laws of other countries they visit.",
+    "Answer": "true"
+  },
+  {
+    "id": 446,
+    "Question": "Canadian citizens have the right to run for office in federal elections.",
+    "Answer": "true"
+  },
+  {
+    "id": 447,
+    "Question": "All Canadians have the right to equal protection and equal benefit of the law without discrimination.",
+    "Answer": "true"
+  },
+  {
+    "id": 448,
+    "Question": "Canadian citizens are not allowed to hold dual citizenship.",
+    "Answer": "false"
+  },
+  {
+    "id": 449,
+    "Question": "Canadian citizens have the right to join a political party and participate in its activities.",
+    "Answer": "true"
+  },
+  {
+    "id": 450,
+    "Question": "Canadian citizens have the right to challenge the government in court.",
+    "Answer": "true"
+  },
+  {
+    "id": 451,
+    "Question": "Canadian citizens are required to serve in the military if called upon during a national emergency.",
+    "Answer": "false"
+  },
+  {
+    "id": 452,
+    "Question": "Every Canadian citizen has the right to be represented by a lawyer in court.",
+    "Answer": "true"
+  },
+  {
+    "id": 453,
+    "Question": "Canadian citizens must respect the rights and freedoms of others.",
+    "Answer": "true"
+  },
+  {
+    "id": 454,
+    "Question": "All Canadians have the right to practice their religion freely.",
+    "Answer": "true"
+  },
+  {
+    "id": 455,
+    "Question": "Canadian citizens have the right to a fair trial by an independent and impartial court.",
+    "Answer": "true"
+  },
+  {
+    "id": 456,
+    "Question": "Canadian citizens are required to pay taxes to both federal and provincial governments.",
+    "Answer": "true"
+  },
+  {
+    "id": 457,
+    "Question": "All Canadians have the right to peaceful assembly.",
+    "Answer": "true"
+  },
+  {
+    "id": 458,
+    "Question": "Canadian citizens have the right to be treated with fairness and respect by government officials.",
+    "Answer": "true"
+  },
+  {
+    "id": 459,
+    "Question": "Canadian citizens have the right to receive healthcare services provided by the government.",
+    "Answer": "true"
+  },
+  {
+    "id": 460,
+    "Question": "All Canadians have the right to work and choose their job freely.",
+    "Answer": "true"
+  },
+  {
+    "id": 461,
+    "Question": "The Canadian Pacific Railway was completed in 1885.",
+    "Answer": "true"
+  },
+  {
+    "id": 462,
+    "Question": "The Battle of Vimy Ridge took place during World War II.",
+    "Answer": "false"
+  },
+  {
+    "id": 463,
+    "Question": "Louis Riel led the Red River Resistance in Manitoba.",
+    "Answer": "true"
+  },
+  {
+    "id": 464,
+    "Question": "The War of 1812 was fought between Canada and the United States.",
+    "Answer": "true"
+  },
+  {
+    "id": 465,
+    "Question": "The Halifax Explosion occurred in 1917.",
+    "Answer": "true"
+  },
+  {
+    "id": 466,
+    "Question": "The Statute of Westminster formally established Canada's independence from Britain.",
+    "Answer": "true"
+  },
+  {
+    "id": 467,
+    "Question": "The Quiet Revolution was a period of social and political change in Quebec during the 1960s.",
+    "Answer": "true"
+  },
+  {
+    "id": 468,
+    "Question": "Terry Fox's Marathon of Hope was a journey across Canada to raise money for cancer research.",
+    "Answer": "true"
+  },
+  {
+    "id": 469,
+    "Question": "The discovery of insulin by Canadian scientists revolutionized the treatment of diabetes.",
+    "Answer": "true"
+  },
+  {
+    "id": 470,
+    "Question": "The Canadian Charter of Rights and Freedoms became part of the Constitution in 1982.",
+    "Answer": "true"
+  },
+  {
+    "id": 471,
+    "Question": "Sir John A. Macdonald was Canada's longest-serving Prime Minister.",
+    "Answer": "true"
+  },
+  {
+    "id": 472,
+    "Question": "The Great Depression had little impact on Canada's economy in the 1930s.",
+    "Answer": "false"
+  },
+  {
+    "id": 473,
+    "Question": "The Winnipeg General Strike of 1919 was a protest by workers for better working conditions.",
+    "Answer": "true"
+  },
+  {
+    "id": 474,
+    "Question": "Canada participated in the Korean War in the 1950s.",
+    "Answer": "true"
+  },
+  {
+    "id": 475,
+    "Question": "Sir Wilfrid Laurier was Canada's first French-Canadian Prime Minister.",
+    "Answer": "false"
+  },
+  {
+    "id": 476,
+    "Question": "The Oka Crisis in 1990 was a land dispute involving Indigenous peoples in Quebec.",
+    "Answer": "true"
+  },
+  {
+    "id": 477,
+    "Question": "Pierre Trudeau introduced the Official Languages Act in 1969 to promote bilingualism.",
+    "Answer": "true"
+  },
+  {
+    "id": 478,
+    "Question": "The Battle of the Plains of Abraham in 1759 was a decisive British victory over the French in Quebec City.",
+    "Answer": "true"
+  },
+  {
+    "id": 479,
+    "Question": "The National Flag of Canada, also known as the Maple Leaf, was adopted in 1965.",
+    "Answer": "true"
+  },
+  {
+    "id": 480,
+    "Question": "The Northwest Territories and Yukon joined Confederation in 1905.",
+    "Answer": "true"
+  },
+  {
+    "id": 481,
+    "Question": "Canada's justice system operates independently of political influence.",
+    "Answer": "true"
+  },
+  {
+    "id": 482,
+    "Question": "In Canada, judges are appointed by the Prime Minister.",
+    "Answer": "false"
+  },
+  {
+    "id": 483,
+    "Question": "The Supreme Court of Canada is the highest court in the country.",
+    "Answer": "true"
+  },
+  {
+    "id": 484,
+    "Question": "Canada does not have a jury system for criminal trials.",
+    "Answer": "false"
+  },
+  {
+    "id": 485,
+    "Question": "In Canada, all criminal trials must be conducted in English.",
+    "Answer": "false"
+  },
+  {
+    "id": 486,
+    "Question": "The Charter of Rights and Freedoms guarantees the right to a fair trial.",
+    "Answer": "true"
+  },
+  {
+    "id": 487,
+    "Question": "The Canadian justice system is based solely on common law.",
+    "Answer": "false"
+  },
+  {
+    "id": 488,
+    "Question": "Restorative justice focuses on rehabilitation and reconciliation between victims and offenders.",
+    "Answer": "true"
+  },
+  {
+    "id": 489,
+    "Question": "Canada does not have extradition agreements with any other countries.",
+    "Answer": "false"
+  },
+  {
+    "id": 490,
+    "Question": "Youth criminal records are automatically erased when a person turns 18 in Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 491,
+    "Question": "In Canada, individuals have the right to legal aid if they cannot afford a lawyer.",
+    "Answer": "true"
+  },
+  {
+    "id": 492,
+    "Question": "In Canadian law, the burden of proof in criminal cases lies with the defendant.",
+    "Answer": "false"
+  },
+  {
+    "id": 493,
+    "Question": "Canada does not have a death penalty for any crime.",
+    "Answer": "true"
+  },
+  {
+    "id": 494,
+    "Question": "Appeals from lower courts are heard by the Federal Court of Canada.",
+    "Answer": "false"
+  },
+  {
+    "id": 495,
+    "Question": "Canada's justice system ensures that individuals are presumed innocent until proven guilty.",
+    "Answer": "true"
+  },
+  {
+    "id": 496,
+    "Question": "In Canada, the concept of habeas corpus guarantees the right to a speedy trial.",
+    "Answer": "false"
+  },
+  {
+    "id": 497,
+    "Question": "In civil cases, the standard of proof required is 'beyond a reasonable doubt.'",
+    "Answer": "false"
+  },
+  {
+    "id": 498,
+    "Question": "The Canadian Human Rights Tribunal hears cases related to violations of the Charter of Rights and Freedoms.",
+    "Answer": "false"
+  },
+  {
+    "id": 499,
+    "Question": "Judges in Canada are appointed for life.",
+    "Answer": "false"
+  },
+  {
+    "id": 500,
+    "Question": "Canadian law allows for the use of both incarceration and fines as punishments.",
+    "Answer": "true"
+  },
+  {
+    "id": 501,
+    "Question": "Which Canadian city is known as the 'City of Champions'?",
+    "Choice A": "Edmonton",
+    "Choice B": "Toronto",
+    "Choice C": "Montreal",
+    "Choice D": "Vancouver",
+    "Correct Answer": "Edmonton"
+  },
+  {
+    "id": 502,
+    "Question": "Which Canadian province is the largest by land area?",
+    "Choice A": "Ontario",
+    "Choice B": "British Columbia",
+    "Choice C": "Quebec",
+    "Choice D": "Nunavut",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 503,
+    "Question": "What is the national summer sport of Canada?",
+    "Choice A": "Lacrosse",
+    "Choice B": "Soccer",
+    "Choice C": "Baseball",
+    "Choice D": "Basketball",
+    "Correct Answer": "Lacrosse"
+  },
+  {
+    "id": 504,
+    "Question": "Which province in Canada is known for its stunning Cabot Trail?",
+    "Choice A": "Prince Edward Island",
+    "Choice B": "Nova Scotia",
+    "Choice C": "Newfoundland and Labrador",
+    "Choice D": "New Brunswick",
+    "Correct Answer": "Nova Scotia"
+  },
+  {
+    "id": 505,
+    "Question": "What is the largest island in Canada?",
+    "Choice A": "Vancouver Island",
+    "Choice B": "Baffin Island",
+    "Choice C": "Newfoundland",
+    "Choice D": "Ellesmere Island",
+    "Correct Answer": "Baffin Island"
+  },
+  {
+    "id": 506,
+    "Question": "Which Canadian province is known for its maple syrup production?",
+    "Choice A": "Alberta",
+    "Choice B": "Manitoba",
+    "Choice C": "Ontario",
+    "Choice D": "Quebec",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 507,
+    "Question": "Which Canadian city hosted the Winter Olympics in 2010?",
+    "Choice A": "Calgary",
+    "Choice B": "Vancouver",
+    "Choice C": "Toronto",
+    "Choice D": "Montreal",
+    "Correct Answer": "Vancouver"
+  },
+  {
+    "id": 508,
+    "Question": "Which Canadian province has the largest French-speaking population?",
+    "Choice A": "Quebec",
+    "Choice B": "New Brunswick",
+    "Choice C": "Ontario",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 509,
+    "Question": "What is the national animal of Canada?",
+    "Choice A": "Bald Eagle",
+    "Choice B": "Moose",
+    "Choice C": "Beaver",
+    "Choice D": "Polar Bear",
+    "Correct Answer": "Beaver"
+  },
+  {
+    "id": 510,
+    "Question": "Which Canadian province is known for its oil sands?",
+    "Choice A": "Saskatchewan",
+    "Choice B": "Alberta",
+    "Choice C": "British Columbia",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Alberta"
+  },
+  {
+    "id": 511,
+    "Question": "What is Canada's highest mountain peak?",
+    "Choice A": "Mount Logan",
+    "Choice B": "Mount Robson",
+    "Choice C": "Mount McKinley",
+    "Choice D": "Mount Rainier",
+    "Correct Answer": "Mount Logan"
+  },
+  {
+    "id": 512,
+    "Question": "Which Canadian city is known as the 'City of Gardens'?",
+    "Choice A": "Victoria",
+    "Choice B": "Toronto",
+    "Choice C": "Vancouver",
+    "Choice D": "Montreal",
+    "Correct Answer": "Victoria"
+  },
+  {
+    "id": 513,
+    "Question": "Which Canadian province is the only officially bilingual province?",
+    "Choice A": "Ontario",
+    "Choice B": "Quebec",
+    "Choice C": "New Brunswick",
+    "Choice D": "Prince Edward Island",
+    "Correct Answer": "New Brunswick"
+  },
+  {
+    "id": 514,
+    "Question": "What is the largest urban park in Canada?",
+    "Choice A": "Banff National Park",
+    "Choice B": "Stanley Park",
+    "Choice C": "Rouge National Urban Park",
+    "Choice D": "Jasper National Park",
+    "Correct Answer": "Rouge National Urban Park"
+  },
+  {
+    "id": 515,
+    "Question": "Which Canadian province is known for its vibrant French culture?",
+    "Choice A": "Ontario",
+    "Choice B": "Manitoba",
+    "Choice C": "New Brunswick",
+    "Choice D": "Quebec",
+    "Correct Answer": "Quebec"
+  },
+  {
+    "id": 516,
+    "Question": "What is the national currency of Canada?",
+    "Choice A": "Canadian Dollar (CAD)",
+    "Choice B": "Canadian Peso (COP)",
+    "Choice C": "Canadian Euro (EUR)",
+    "Choice D": "Canadian Yen (JPY)",
+    "Correct Answer": "Canadian Dollar (CAD)"
+  },
+  {
+    "id": 517,
+    "Question": "Which Canadian province is known for its red sand beaches?",
+    "Choice A": "Nova Scotia",
+    "Choice B": "Prince Edward Island",
+    "Choice C": "Newfoundland and Labrador",
+    "Choice D": "New Brunswick",
+    "Correct Answer": "Prince Edward Island"
+  },
+  {
+    "id": 518,
+    "Question": "Which Canadian city is known for its annual Stampede event?",
+    "Choice A": "Calgary",
+    "Choice B": "Edmonton",
+    "Choice C": "Toronto",
+    "Choice D": "Vancouver",
+    "Correct Answer": "Calgary"
+  },
+  {
+    "id": 519,
+    "Question": "What is the official motto of Canada?",
+    "Choice A": "A Mari Usque Ad Mare (From Sea to Sea)",
+    "Choice B": "Ad Virtutem Per Astra (To Valour Through Adversity)",
+    "Choice C": "Munit Haec et Altera Vincit (One Defends and the Other Conquers)",
+    "Choice D": "Regnat Populus (The People Rule)",
+    "Correct Answer": "A Mari Usque Ad Mare (From Sea to Sea)"
+  },
+  {
+    "id": 520,
+    "Question": "Which Canadian province is known for its polar bear population?",
+    "Choice A": "Nunavut",
+    "Choice B": "Yukon",
+    "Choice C": "Northwest Territories",
+    "Choice D": "Manitoba",
+    "Correct Answer": "Nunavut"
+  },
+  {
+    "id": 521,
+    "Question": "Canada operates under a parliamentary democracy.",
+    "Answer": "true"
+  },
+  {
+    "id": 522,
+    "Question": "The Prime Minister of Canada is elected directly by the citizens.",
+    "Answer": "false"
+  },
+  {
+    "id": 523,
+    "Question": "The Governor General of Canada is appointed by the Prime Minister.",
+    "Answer": "true"
+  },
+  {
+    "id": 524,
+    "Question": "The Canadian Parliament consists of the House of Commons and the Senate.",
+    "Answer": "true"
+  },
+  {
+    "id": 525,
+    "Question": "Members of Parliament (MPs) are elected to represent provinces in the Senate.",
+    "Answer": "false"
+  },
+  {
+    "id": 526,
+    "Question": "The Senate in Canada is a fully elected body.",
+    "Answer": "false"
+  },
+  {
+    "id": 527,
+    "Question": "The Prime Minister must be a member of the House of Commons.",
+    "Answer": "true"
+  },
+  {
+    "id": 528,
+    "Question": "The Lieutenant Governors of provinces are appointed by the federal government.",
+    "Answer": "false"
+  },
+  {
+    "id": 529,
+    "Question": "Provincial governments in Canada have authority over education and healthcare.",
+    "Answer": "true"
+  },
+  {
+    "id": 530,
+    "Question": "The Queen of Canada has executive authority over the government.",
+    "Answer": "false"
+  },
+  {
+    "id": 531,
+    "Question": "Cabinet ministers in Canada are appointed by the Governor General.",
+    "Answer": "false"
+  },
+  {
+    "id": 532,
+    "Question": "The Supreme Court of Canada has the authority to strike down laws deemed unconstitutional.",
+    "Answer": "true"
+  },
+  {
+    "id": 533,
+    "Question": "Provincial governments in Canada can create their own laws, known as statutes.",
+    "Answer": "true"
+  },
+  {
+    "id": 534,
+    "Question": "The Canadian Charter of Rights and Freedoms applies only to federal laws.",
+    "Answer": "false"
+  },
+  {
+    "id": 535,
+    "Question": "Referendums in Canada are legally binding and can change federal laws.",
+    "Answer": "false"
+  },
+  {
+    "id": 536,
+    "Question": "Canada's political parties play a significant role in shaping government policies.",
+    "Answer": "true"
+  },
+  {
+    "id": 537,
+    "Question": "The Governor General has the authority to dissolve Parliament and call for new elections.",
+    "Answer": "true"
+  },
+  {
+    "id": 538,
+    "Question": "The Official Languages Act of Canada guarantees equal status for English and French in federal institutions.",
+    "Answer": "true"
+  },
+  {
+    "id": 539,
+    "Question": "The Canadian electoral system uses a proportional representation method.",
+    "Answer": "false"
+  },
+  {
+    "id": 540,
+    "Question": "Canada has a system of checks and balances to prevent concentration of power in one branch of government.",
+    "Answer": "true"
+  }
+]
