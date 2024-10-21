@@ -7,6 +7,12 @@ import HomePage from "./App/screens/homepage";
 import SuccessScreen from "./App/screens/SuccessScreen";
 import SettingsPage from "./App/screens/settingspage";
 import Feather from "@expo/vector-icons/Feather";
+// import UserChat from "./App/screens/UserChat";
+import AdminChat from "./App/screens/AdminChat";
+// import ChatScreen from "./App/screens/ChatScreen";
+import UserChat from "./App/screens/UserChat";
+import UserChatThree from "./App/screens/UserChatThree";
+import AdminChatThree from "./App/screens/AdminChatThree";
 
 const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();
@@ -59,6 +65,20 @@ const TabNavigator = () => (
       component={SettingsPage}
       options={{
         tabBarIcon: ({ color }) => <Feather name="settings" size={22} color={color} />,
+      }}
+    />
+    <Tab.Screen
+      name="User"
+      component={UserChatThree}
+      options={{
+        tabBarIcon: ({ color }) => <Feather name="message-circle" size={22} color={color} />,
+      }}
+    />
+    <Tab.Screen
+      name="Admin"
+      component={AdminChatThree}
+      options={{
+        tabBarIcon: ({ color }) => <Feather name="shield" size={22} color={color} />,
       }}
     />
   </Tab.Navigator>
