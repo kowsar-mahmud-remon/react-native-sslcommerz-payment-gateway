@@ -7,10 +7,6 @@ import HomePage from "./App/screens/homepage";
 import SuccessScreen from "./App/screens/SuccessScreen";
 import SettingsPage from "./App/screens/settingspage";
 import Feather from "@expo/vector-icons/Feather";
-// import UserChat from "./App/screens/UserChat";
-import AdminChat from "./App/screens/AdminChat";
-// import ChatScreen from "./App/screens/ChatScreen";
-import UserChat from "./App/screens/UserChat";
 import UserChatThree from "./App/screens/UserChatThree";
 import AdminChatThree from "./App/screens/AdminChatThree";
 

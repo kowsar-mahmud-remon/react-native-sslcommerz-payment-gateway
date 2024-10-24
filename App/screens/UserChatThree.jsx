@@ -6,6 +6,9 @@ import {
   Button,
   ScrollView,
   StyleSheet,
+  Image, // Import Image for displaying image previews
+  TouchableOpacity,
+  Linking,
 } from "react-native";
 import {
   collection,
@@ -17,20 +20,22 @@ import {
   arrayUnion,
   Timestamp,
 } from "firebase/firestore";
-import { db } from "../components/firebase"; // Assuming this is your Firebase setup file
+import { db, storage } from "../components/firebase";
+import * as DocumentPicker from "expo-document-picker";
+import { ref, uploadBytesResumable, getDownloadURL } from "firebase/storage";
 
-// Static user data
 const user = {
-  uid: "FDZiZ9hWs5Q7sRKtOHyJxRtRWfz2", // Static UID
-  displayName: "Mahmud", // Static display name
+  uid: "FDZiZ9hWs5Q7sRKtOHyJxRtRWfz2",
+  displayName: "Mahmud",
 };
 
 export default function UserChatThree() {
   const [messages, setMessages] = useState([]);
   const [newMessage, setNewMessage] = useState("");
-  const conversationId = user.uid; // Using static UID for the conversation
+  const [file, setFile] = useState(null); // Correctly handle the file
+  const [filePreview, setFilePreview] = useState(null); // State to display file preview
+  const conversationId = user.uid;
 
-  // Fetch messages in real-time using Firestore's onSnapshot
   useEffect(() => {
     const unsubscribe = onSnapshot(
       doc(db, "conversations", conversationId),
@@ -46,27 +51,25 @@ export default function UserChatThree() {
       }
     );
 
-    return () => unsubscribe(); // Clean up the listener when the component unmounts
+    return () => unsubscribe();
   }, [conversationId]);
 
-  const sendMessage = async () => {
-    if (newMessage.trim() === "") return;
+  const sendMessage = async (fileUrl = null) => {
+    if (newMessage.trim() === "" && !fileUrl) return;
 
     const messageData = {
       senderId: user.uid,
       senderName: user.displayName,
-      text: newMessage,
-      time: Timestamp.now(), // Add the actual timestamp here
+      text: newMessage || (fileUrl ? "Sent an image/file" : ""),
+      fileUrl: fileUrl || null,
+      time: Timestamp.now(),
     };
 
     try {
       const conversationRef = doc(db, "conversations", conversationId);
-
-      // Get the current conversation data (if it exists)
       const conversationSnapshot = await getDoc(conversationRef);
 
       if (conversationSnapshot.exists()) {
-        // If the conversation exists, append the new message to the array
         const conversationData = conversationSnapshot.data();
         const updatedMessages = [...conversationData.messages, messageData];
 
@@ -74,30 +77,93 @@ export default function UserChatThree() {
           messages: updatedMessages,
           lastMessageTimestamp: serverTimestamp(),
         });
-
-        console.log("Message sent with actual timestamp");
       } else {
-        // If the conversation doesn't exist, create a new one
         await updateDoc(conversationRef, {
           messages: arrayUnion(messageData),
           lastMessageTimestamp: serverTimestamp(),
         });
-
-        console.log("Conversation created and message sent");
       }
 
-      setNewMessage(""); // Clear the input after sending
+      setNewMessage("");
+      setFile(null);
+      setFilePreview(null); // Clear the file preview after sending
     } catch (error) {
       console.error("Error sending message: ", error);
     }
   };
 
+  const handleFileUpload = async () => {
+    if (!file) {
+      await sendMessage();
+      return;
+    }
+
+    try {
+      const response = await fetch(file.uri);
+      const blob = await response.blob();
+
+      const storageRef = ref(storage, `files/${file.name}`);
+      const uploadTask = uploadBytesResumable(storageRef, blob);
+
+      uploadTask.on(
+        "state_changed",
+        (snapshot) => {
+          console.log(
+            "Uploading: ",
+            (snapshot.bytesTransferred / snapshot.totalBytes) * 100
+          );
+        },
+        (error) => {
+          console.error("Upload error: ", error);
+        },
+        async () => {
+          const downloadURL = await getDownloadURL(uploadTask.snapshot.ref);
+          await sendMessage(downloadURL); // Send the message with file URL
+        }
+      );
+    } catch (error) {
+      console.error("File upload failed:", error);
+    }
+  };
+
+  const handlePickFile = async () => {
+    try {
+      let result = await DocumentPicker.getDocumentAsync({
+        type: "*/*",
+        copyToCacheDirectory: true,
+      });
+
+      if (!result.canceled && result.assets && result.assets.length > 0) {
+        const pickedFile = result.assets[0];
+
+        setFile({
+          uri: pickedFile.uri,
+          name: pickedFile.name || "file",
+          type: pickedFile.mimeType || "application/octet-stream",
+        });
+
+        // If it's an image, set the preview to display it, otherwise just show the file name
+        if (pickedFile.mimeType && pickedFile.mimeType.startsWith("image/")) {
+          setFilePreview({ type: "image", uri: pickedFile.uri });
+        } else {
+          setFilePreview({ type: "file", name: pickedFile.name });
+        }
+
+        console.log("File picked:", pickedFile);
+      } else {
+        console.error("File pick was not successful:", result);
+      }
+    } catch (error) {
+      console.error("Error picking file:", error);
+    }
+  };
+
   const formatTime = (timestamp) => {
     if (timestamp) {
-      const date = new Date(timestamp.seconds * 1000); // Convert Firestore Timestamp to JavaScript Date
-      const formattedDate = date.toLocaleDateString(); // Format date (e.g., 10/06/2024)
-      const formattedTime = date.toLocaleTimeString(); // Format time (e.g., 3:45 PM)
-      return `${formattedDate} ${formattedTime}`; // Combine both date and time
+      const date = new Date(timestamp.seconds * 1000);
+      const formattedDate = date.toLocaleDateString();
+      const formattedTime = date.toLocaleTimeString();
+      return `${formattedDate} ${formattedTime}`;
     }
     return "";
   };
@@ -107,21 +173,42 @@ export default function UserChatThree() {
       <ScrollView style={styles.messageContainer}>
         {messages.map((msg, index) => (
           <View key={index} style={styles.message}>
-            <Text>
-              <Text style={styles.senderName}>{msg.senderName}: </Text>
-              {msg.text}
+            <Text style={styles.senderName}>
+              {msg.senderName}: {msg.text}
             </Text>
+            {msg.fileUrl && (
+              <Text onPress={() => Linking.openURL(msg.fileUrl)}>
+                View File
+              </Text>
+            )}
             <Text style={styles.timestamp}>{formatTime(msg.time)}</Text>
           </View>
         ))}
       </ScrollView>
+
+      {filePreview && (
+        <View style={styles.previewContainer}>
+          {filePreview.type === "image" ? (
+            <Image
+              source={{ uri: filePreview.uri }}
+              style={styles.imagePreview}
+            />
+          ) : (
+            <Text style={styles.fileName}>
+              Selected File: {filePreview.name}
+            </Text>
+          )}
+        </View>
+      )}
+
       <TextInput
         style={styles.input}
         value={newMessage}
         onChangeText={setNewMessage}
         placeholder="Type your message"
       />
-      <Button title="Send" onPress={sendMessage} />
+      <Button title="Pick File" onPress={handlePickFile} />
+      <Button title="Send" onPress={handleFileUpload} />
     </View>
   );
 }
@@ -131,10 +218,9 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: "white",
     padding: 10,
-    justifyContent: "center",
   },
   messageContainer: {
-    flex: 1,
+    maxHeight: 400,
     marginBottom: 10,
   },
   message: {
@@ -155,5 +241,17 @@ const styles = StyleSheet.create({
     padding: 10,
     borderRadius: 5,
     marginBottom: 10,
+  },
+  previewContainer: {
+    marginBottom: 10,
+  },
+  imagePreview: {
+    width: 100,
+    height: 100,
+    marginBottom: 10,
+  },
+  fileName: {
+    fontSize: 16,
+    color: "black",
   },
 });

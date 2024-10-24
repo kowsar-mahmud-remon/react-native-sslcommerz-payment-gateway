@@ -4,9 +4,11 @@ import {
   Text,
   TextInput,
   Button,
-  ScrollView,
-  StyleSheet,
+  FlatList,
   TouchableOpacity,
+  StyleSheet,
+  Image,
+  Alert,
   Linking,
 } from "react-native";
 import {
@@ -19,14 +21,10 @@ import {
   onSnapshot,
   serverTimestamp,
   Timestamp,
-} from "@react-native-firebase/firestore";
+} from "firebase/firestore";
 import { db, storage } from "../components/firebase"; // Ensure Firebase storage is imported
-import * as DocumentPicker from "expo-document-picker"; // For file picking in React Native
-import {
-  ref,
-  uploadBytesResumable,
-  getDownloadURL,
-} from "@react-native-firebase/storage"; // Firebase storage utilities
+import * as DocumentPicker from "expo-document-picker"; // For file upload
+import { ref, uploadBytesResumable, getDownloadURL } from "firebase/storage";
 
 const admin = {
   uid: "0cewruh5nIPxBlFKtYMc2EeEf6h1",
@@ -39,6 +37,8 @@ const AdminChatThree = () => {
   const [messages, setMessages] = useState([]);
   const [newMessage, setNewMessage] = useState("");
   const [file, setFile] = useState(null); // State for file upload
+
+  const [filePreview, setFilePreview] = useState(null);
 
   // Fetch all conversations (admin-side)
   useEffect(() => {
@@ -104,6 +104,7 @@ const AdminChatThree = () => {
 
       setNewMessage(""); // Clear message input
       setFile(null); // Clear file after sending
+      setFilePreview(null);
     } catch (error) {
       console.error("Error sending admin reply: ", error);
     }
@@ -112,35 +113,73 @@ const AdminChatThree = () => {
   const handleFileUpload = async () => {
     if (!file) {
       // If there's no file, just send the message
+      console.log("No file selected, sending message only");
       await sendAdminReply();
       return;
     }
 
-    const storageRef = ref(storage, `files/${file.name}`);
-    const uploadTask = uploadBytesResumable(storageRef, file);
+    try {
+      console.log("Uploading file:", file);
 
-    uploadTask.on(
-      "state_changed",
-      (snapshot) => {
-        console.log(
-          "Uploading: ",
-          (snapshot.bytesTransferred / snapshot.totalBytes) * 100
-        );
-      },
-      (error) => {
-        console.error("Upload error: ", error);
-      },
-      async () => {
-        const downloadURL = await getDownloadURL(uploadTask.snapshot.ref);
-        await sendAdminReply(downloadURL); // Send message with file URL
-      }
-    );
+      const response = await fetch(file.uri);
+      const blob = await response.blob();
+
+      const storageRef = ref(storage, `files/${file.name}`);
+      const uploadTask = uploadBytesResumable(storageRef, blob);
+
+      uploadTask.on(
+        "state_changed",
+        (snapshot) => {
+          console.log(
+            "Uploading: ",
+            (snapshot.bytesTransferred / snapshot.totalBytes) * 100,
+            "% done"
+          );
+        },
+        (error) => {
+          console.error("Upload error: ", error);
+        },
+        async () => {
+          const downloadURL = await getDownloadURL(uploadTask.snapshot.ref);
+          console.log("File uploaded successfully. File URL:", downloadURL);
+          await sendAdminReply(downloadURL); // Send message with file URL
+        }
+      );
+    } catch (error) {
+      console.error("Error uploading file: ", error);
+    }
   };
 
-  const handlePickFile = async () => {
-    let result = await DocumentPicker.getDocumentAsync({});
-    if (result.type === "success") {
-      setFile(result);
+  const pickDocument = async () => {
+    try {
+      let result = await DocumentPicker.getDocumentAsync({
+        type: "*/*",
+        copyToCacheDirectory: true,
+      });
+
+      if (!result.canceled && result.assets && result.assets.length > 0) {
+        const pickedFile = result.assets[0];
+
+        setFile({
+          uri: pickedFile.uri,
+          name: pickedFile.name || "file",
+          type: pickedFile.mimeType || "application/octet-stream",
+        });
+
+        // If it's an image, set the preview to display it, otherwise just show the file name
+
+        if (pickedFile.mimeType && pickedFile.mimeType.startsWith("image/")) {
+          setFilePreview({ type: "image", uri: pickedFile.uri });
+        } else {
+          setFilePreview({ type: "file", name: pickedFile.name });
+        }
+
+        console.log("File picked:", pickedFile);
+      } else {
+        console.error("File pick was not successful:", result);
+      }
+    } catch (error) {
+      console.error("Error picking file:", error);
     }
   };
 
@@ -155,59 +194,100 @@ const AdminChatThree = () => {
   };
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.heading}>Admin Chat</Text>
-      <View style={styles.flexRow}>
-        <View style={styles.conversationList}>
-          <Text style={styles.subheading}>Select a User Conversation</Text>
+    <View style={{ padding: 20, flex: 1 }}>
+      <Text style={{ textAlign: "center", fontSize: 24, marginBottom: 20 }}>
+        Admin Chat
+      </Text>
+      <View
+        style={{
+          flexDirection: "row",
+          justifyContent: "space-between",
+          flex: 1,
+        }}
+      >
+        <View style={{ width: "40%" }}>
+          <Text style={{ fontSize: 18 }}>Select a User Conversation</Text>
           {conversations.length === 0 ? (
             <Text>No conversations found</Text>
           ) : (
-            <ScrollView>
-              {conversations.map((conversation) => (
+            <FlatList
+              data={conversations}
+              keyExtractor={(item) => item.id}
+              renderItem={({ item }) => (
                 <TouchableOpacity
-                  style={styles.conversationItem}
-                  key={conversation.id}
-                  onPress={() => setSelectedConversationId(conversation.id)}
+                  style={{
+                    padding: 10,
+                    backgroundColor: "#ccc",
+                    marginVertical: 5,
+                    borderRadius: 5,
+                  }}
+                  onPress={() => setSelectedConversationId(item.id)}
                 >
-                  <Text>Conversation with User ID: {conversation.id}</Text>
+                  <Text>Conversation with User ID: {item.id}</Text>
                 </TouchableOpacity>
-              ))}
-            </ScrollView>
+              )}
+            />
           )}
         </View>
 
         {selectedConversationId && (
-          <View style={styles.messageArea}>
-            <Text style={styles.subheading}>Conversation Messages</Text>
-            <ScrollView style={styles.messageContainer}>
-              {messages.length === 0 ? (
-                <Text>No messages in this conversation yet</Text>
-              ) : (
-                messages.map((message, index) => (
-                  <View key={index} style={styles.message}>
-                    <Text style={styles.senderName}>
-                      {message.senderName}: {message.text}
+          <View style={{ width: "55%" }}>
+            <Text style={{ fontSize: 20, marginBottom: 10 }}>
+              Conversation Messages
+            </Text>
+            <FlatList
+              data={messages}
+              keyExtractor={(item, index) => index.toString()}
+              renderItem={({ item }) => (
+                <View style={{ marginBottom: 15 }}>
+                  <Text style={{ fontWeight: "bold" }}>
+                    {item.senderName}: {item.text}
+                  </Text>
+                  {item.fileUrl && (
+                    // <TouchableOpacity
+                    //   onPress={() => Alert.alert("Open File", item.fileUrl)}
+                    // >
+                    //   <Text style={{ color: "blue" }}>View File</Text>
+                    // </TouchableOpacity>
+
+                    <Text onPress={() => Linking.openURL(item.fileUrl)}>
+                      View File
                     </Text>
-                    {message.fileUrl && (
-                      <Text onPress={() => Linking.openURL(message.fileUrl)}>
-                        View File
-                      </Text>
-                    )}
-                    <Text style={styles.timestamp}>
-                      {formatTime(message.time)}
-                    </Text>
-                  </View>
-                ))
+                  )}
+                  <Text style={{ fontStyle: "italic", fontSize: 12 }}>
+                    {formatTime(item.time)}
+                  </Text>
+                </View>
               )}
-            </ScrollView>
+            />
+
+            {filePreview && (
+              <View style={styles.previewContainer}>
+                {filePreview.type === "image" ? (
+                  <Image
+                    source={{ uri: filePreview.uri }}
+                    style={styles.imagePreview}
+                  />
+                ) : (
+                  <Text style={styles.fileName}>
+                    Selected File: {filePreview.name}
+                  </Text>
+                )}
+              </View>
+            )}
+
             <TextInput
-              style={styles.input}
+              style={{
+                borderWidth: 1,
+                borderColor: "#ccc",
+                padding: 10,
+                marginTop: 10,
+              }}
               value={newMessage}
-              onChangeText={setNewMessage}
+              onChangeText={(text) => setNewMessage(text)}
               placeholder="Type a message..."
             />
-            <Button title="Pick File" onPress={handlePickFile} />
+            <Button title="Pick File" onPress={pickDocument} />
             <Button title="Send" onPress={handleFileUpload} />
           </View>
         )}
@@ -216,56 +296,16 @@ const AdminChatThree = () => {
   );
 };
 
+export default AdminChatThree;
+
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "white",
-    padding: 10,
-  },
-  heading: {
-    textAlign: "center",
-    fontSize: 24,
-    marginBottom: 20,
-  },
-  flexRow: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-  },
-  conversationList: {
-    width: "40%",
-  },
-  conversationItem: {
-    padding: 10,
-    marginBottom: 10,
-    backgroundColor: "#f0f0f0",
-    borderRadius: 5,
-  },
-  messageArea: {
-    width: "55%",
-  },
-  messageContainer: {
-    maxHeight: 400,
+  imagePreview: {
+    width: 100,
+    height: 100,
     marginBottom: 10,
   },
-  message: {
-    backgroundColor: "#f0f0f0",
-    padding: 10,
-    marginBottom: 5,
-    borderRadius: 5,
-  },
-  senderName: {
-    fontWeight: "bold",
-  },
-  timestamp: {
-    fontSize: 12,
-    color: "gray",
-  },
-  input: {
-    backgroundColor: "#f0f0f0",
-    padding: 10,
-    borderRadius: 5,
-    marginBottom: 10,
+  fileName: {
+    fontSize: 16,
+    color: "black",
   },
 });
-
-export default AdminChatThree;

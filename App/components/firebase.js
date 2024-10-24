@@ -1,7 +1,11 @@
+// import { initializeApp } from 'firebase/app';
+// import { getFirestore } from '@react-native-firebase/firestore';
+// import { getStorage } from '@react-native-firebase/storage';
+
 import { initializeApp } from 'firebase/app';
-import { getAuth } from '@react-native-firebase/auth';
-import { getFirestore } from '@react-native-firebase/firestore';
-import { getStorage } from '@react-native-firebase/storage';
+import { getFirestore } from 'firebase/firestore';
+import { getStorage } from 'firebase/storage';
+// import { getAuth } from 'firebase/auth';
 
 // Your Firebase config
 const firebaseConfig = {
@@ -17,13 +21,10 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 
 // Initialize Auth, Firestore, and Storage
-const auth = getAuth(app);
 const db = getFirestore(app);
 const storage = getStorage(app);
 
-export { auth, db, storage };
-
-
+export { db, storage };
 
 
 
